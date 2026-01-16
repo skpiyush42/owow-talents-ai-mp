@@ -1,0 +1,1171 @@
+record_id,user_id,message,campaign,timestamp
+8f3a99d9-1c7a-47fc-8b29-e51197f321b4,user_27,,,2025-11-03 22:34:41.495680
+734ed260-c91d-44b1-8df3-8ae7b8cc0fea,user_113,Requesting personalized recommendations,Product_Recommendation,2025-11-03 22:49:41.495810
+fdf02209-bb44-4ae2-a456-506c6191e5ca,user_640,Just browsing offers,Festive_Sale,2025-11-03 23:34:41.496560
+d2417878-745e-4eb9-9afb-ea6d8f9a75ac,user_803,Just browsing offers,Seasonal_Promo,2025-11-04 02:29:41.496789
+8273bf01-6a1a-41df-b14d-8ba05fc42d47,user_356,,,2025-11-04 02:37:41.496169
+de6e6ec6-87dd-4df6-8117-8c948625e22a,user_44,Exploring premium features,New_User_Welcome,2025-11-04 04:09:41.495721
+a5fcd576-4bc2-4b41-8881-e132f1fea7b5,user_150,,,2025-11-04 08:44:41.495859
+c873088e-4ea8-43bf-873a-190582aa9412,user_25,,,2025-11-04 09:31:41.495678
+c44903a9-45b6-4c69-9cff-1b49b3e8251e,user_194,Looking for discounts,Seasonal_Promo,2025-11-04 15:10:41.495948
+f1d6ae85-9ac1-4db9-b35b-3e93d28db6d8,user_437,,,2025-11-04 17:45:41.496279
+339778f6-8fc6-4f18-bd78-2917b8b84174,user_343,Requesting personalized recommendations,Product_Recommendation,2025-11-04 17:47:41.496151
+4cffefde-49ed-48aa-a49e-1089695c56b4,user_381,Just browsing offers,Festive_Sale,2025-11-04 20:32:41.496203
+49559c0b-b125-4d66-ba76-399efa14211e,user_461,,,2025-11-04 23:03:41.496311
+f724f10c-5ed7-4a79-bda5-a84b21b39fc9,user_308,Requesting personalized recommendations,Product_Recommendation,2025-11-05 00:57:41.496104
+e4abdbcb-54b2-4bbb-bb3c-403389b9c054,user_776,Feedback on recent campaign,New_User_Welcome,2025-11-05 06:36:41.496746
+4595af14-e08e-4595-815f-65b33e0262db,user_617,Need support with recent purchase,,2025-11-05 07:13:41.496531
+4bb2f48a-b45f-42f7-9589-0ccb7eee327a,user_938,Asking about subscription plans,Festive_Sale,2025-11-05 08:35:41.496959
+064bd168-843c-4e44-a715-89cedae1ca10,user_630,Feedback on recent campaign,New_User_Welcome,2025-11-05 08:44:41.496547
+f6b3ba7e-ae63-4a32-9778-1bb8ac93b41d,user_630,Added item to wishlist,Wishlist_Nudge,2025-11-05 09:46:41.496547
+693d0503-db54-4243-9f13-bd54ecd77010,user_503,Requesting personalized recommendations,Product_Recommendation,2025-11-05 10:53:41.496368
+a4482238-b20f-4884-a97b-85178baf34b6,user_832,Looking for discounts,Seasonal_Promo,2025-11-05 14:41:41.496826
+e70a3509-e6f7-45e3-80ee-a56eb32a701c,user_886,Requesting personalized recommendations,Product_Recommendation,2025-11-05 16:32:41.496896
+3fc00baf-87d0-49e2-9ae0-d6c04bd6b89c,user_795,Asking about subscription plans,Festive_Sale,2025-11-05 17:00:41.496779
+16052f9b-006e-4ca7-8510-29fe1780ad90,user_912,Need support with recent purchase,New_User_Welcome,2025-11-05 18:17:41.496927
+42007d03-a395-4638-8a63-134a5ad87feb,user_826,Exploring premium features,Festive_Sale,2025-11-05 20:23:41.496819
+bedce45c-17aa-43db-92a7-ca8cd3bfd397,user_826,Clicked on product recommendation,Product_Recommendation,2025-11-05 21:35:41.496819
+1096347c-3a14-4c9e-834c-227c05a52a23,user_826,Clicked on product recommendation,Product_Recommendation,2025-11-05 21:54:41.496819
+f3926f64-b3aa-41fb-831d-3e5f2b6a5576,user_413,Feedback on recent campaign,Festive_Sale,2025-11-05 22:54:41.496246
+0578bcbf-811b-4405-8fd3-9e9276f3b7ac,user_563,Looking for discounts,Seasonal_Promo,2025-11-05 23:40:41.496459
+4977663f-095c-4cc0-b56b-446664d20603,user_826,Returned to app after notification,Reengagement_Push,2025-11-05 23:48:41.496819
+3b5efcb8-c16c-47c0-b921-5636697db6f7,user_563,Returned to app after notification,Reengagement_Push,2025-11-05 23:54:41.496459
+012e038f-93d5-4861-b67c-6db7dbc40cfd,user_563,,,2025-11-06 00:22:41.496459
+5981782b-d0ee-4290-8859-eef0e50f58b6,user_563,Opened promotional email,Festive_Sale,2025-11-06 00:31:41.496459
+5cf8e94d-dddd-462f-b867-7d2dd8917b67,user_905,Requesting personalized recommendations,,2025-11-06 02:39:41.496919
+7b997717-04a3-4a73-8061-70d45e79a79f,user_679,Feedback on recent campaign,,2025-11-06 11:09:41.496607
+2050255c-1f09-49cf-9ac6-909a14829224,user_41,Asking about subscription plans,Festive_Sale,2025-11-06 14:46:41.495717
+231329fd-33d5-4acc-be66-b1d3399ca613,user_719,Need support with recent purchase,Festive_Sale,2025-11-06 16:19:41.496659
+d237b09e-e4a1-41ce-84a9-d1a00bfb8859,user_862,Need support with recent purchase,Festive_Sale,2025-11-06 18:27:41.496865
+937797ec-8325-4cda-a98f-36e08fb1119a,user_691,Just browsing offers,New_User_Welcome,2025-11-06 19:13:41.496623
+4ea7d540-1e08-4ec1-9faf-47f2dc2d4d7d,user_691,Clicked on product recommendation,Product_Recommendation,2025-11-06 19:29:41.496623
+01bd725b-c13b-4cce-83b5-d46205990247,user_928,,,2025-11-06 19:46:41.496947
+4a8bc578-a85b-4cd9-aa19-612ea1db876f,user_330,Asking about subscription plans,New_User_Welcome,2025-11-06 20:34:41.496134
+0eb3fc2d-ea13-4579-9e5b-7df7217f8245,user_651,Just browsing offers,Seasonal_Promo,2025-11-06 20:46:41.496573
+d8da46f5-3a6f-4e76-a0c3-bec370cd1590,user_500,Looking for discounts,New_User_Welcome,2025-11-06 23:57:41.496364
+8e930224-cc5b-4108-a7c6-4fc367130fc0,user_372,Asking about subscription plans,Festive_Sale,2025-11-07 02:13:41.496191
+daf0b9ef-8980-4675-b611-6868d49f3b76,user_271,Need support with recent purchase,Seasonal_Promo,2025-11-07 06:46:41.496053
+82deff51-7f7d-4b16-979d-e8120e1c7e07,user_45,Interested in new product updates,New_User_Welcome,2025-11-07 09:31:41.495722
+3dd68ea3-e115-4f4f-aace-0ac1485b385b,user_530,Looking for discounts,Seasonal_Promo,2025-11-07 10:09:41.496418
+36ff5dea-c96f-42aa-97e3-f928fec72a7d,user_220,,,2025-11-07 10:42:41.495984
+ecb03459-39de-46b8-b9c1-589a83274c78,user_597,Feedback on recent campaign,New_User_Welcome,2025-11-07 11:55:41.496502
+576e0da0-a349-4ed7-af70-e9c8dd3155e8,user_140,,,2025-11-07 12:27:41.495845
+a203069c-e4d4-4b2d-b8b7-acd69e3f26a2,user_979,Feedback on recent campaign,Seasonal_Promo,2025-11-07 13:00:41.497050
+adb365b0-9699-40a1-85ba-9db01f9602dc,user_344,Asking about subscription plans,Festive_Sale,2025-11-07 16:25:41.496152
+8baf84c7-b522-46fb-b81e-9d775fe8e016,user_588,Interested in new product updates,Seasonal_Promo,2025-11-07 17:30:41.496490
+f1f86af8-8bb3-4e10-ac49-c8868479db21,user_744,Just browsing offers,Seasonal_Promo,2025-11-07 18:13:41.496690
+5f824458-4c1c-4a34-9db1-c79e1d5bc6d6,user_622,Asking about subscription plans,New_User_Welcome,2025-11-07 20:51:41.496537
+bab12cbf-0fe3-421d-8f30-478b35d2e74c,user_173,Just browsing offers,Festive_Sale,2025-11-07 22:37:41.495916
+aaa57228-716b-46e3-b4d1-f7fbba580974,user_628,Looking for discounts,Seasonal_Promo,2025-11-07 23:47:41.496544
+c60501a2-f8a3-4057-b78f-47ace9bda59f,user_557,,,2025-11-08 01:34:41.496452
+24e79b79-1e46-4fbb-a619-b21f1a33f92b,user_281,Feedback on recent campaign,,2025-11-08 04:45:41.496067
+112eda53-2cf0-489c-9cad-dc21775d49b4,user_484,Feedback on recent campaign,Seasonal_Promo,2025-11-08 05:15:41.496342
+54e89fc1-fbee-4953-b784-22f55c8e51a6,user_231,Looking for discounts,Seasonal_Promo,2025-11-08 09:02:41.495999
+b599eef7-a3f4-4b83-aad7-17908943743d,user_986,Exploring premium features,Festive_Sale,2025-11-08 10:49:41.497060
+accbffff-7537-40c1-9a8f-0a2bbb134562,user_195,Asking about subscription plans,Seasonal_Promo,2025-11-08 12:06:41.495950
+29722b25-20ed-42cf-8b14-a24c8d81b978,user_195,Viewed cart but did not checkout,Abandoned_Cart_Reminder,2025-11-08 12:15:41.495950
+4b894ac6-2ef2-413d-8542-11eadb74740f,user_13,Requesting personalized recommendations,Product_Recommendation,2025-11-08 12:42:41.495662
+f2cba27d-43ca-437c-997c-b857e861db2d,user_195,Viewed cart but did not checkout,Abandoned_Cart_Reminder,2025-11-08 13:57:41.495950
+b7ffcb9f-5f61-44fd-9b7e-8645aa20a6b1,user_70,,,2025-11-08 14:38:41.495753
+05502fe6-dc26-443c-af63-2e21f10be8dd,user_894,Requesting personalized recommendations,Product_Recommendation,2025-11-08 21:12:41.496905
+251a934a-903a-4b9f-8c02-d2c536b22fcd,user_326,Need support with recent purchase,Seasonal_Promo,2025-11-08 21:14:41.496128
+528770db-c67f-47b3-b0a1-cc2aef4d9ce7,user_593,Looking for discounts,Seasonal_Promo,2025-11-08 21:36:41.496496
+0fd0a0e7-cfc8-44b7-8648-eb779f726487,user_80,Interested in new product updates,Seasonal_Promo,2025-11-08 21:56:41.495766
+c5387493-f615-4114-8b6d-efa87a0e8a79,user_53,Interested in new product updates,New_User_Welcome,2025-11-09 03:04:41.495731
+e418ffc6-f8ea-4a96-b0cb-69ccb16f1574,user_594,Asking about subscription plans,Seasonal_Promo,2025-11-09 05:23:41.496499
+1b926cb6-f75f-4d1a-93ed-f00a2c7be0a7,user_727,Requesting personalized recommendations,Product_Recommendation,2025-11-09 07:01:41.496669
+8a88277c-b332-4539-9b26-d3aa1cd27d38,user_973,Requesting personalized recommendations,Product_Recommendation,2025-11-09 07:15:41.497037
+eb03493d-5aa1-430c-b944-decf7860827d,user_128,Feedback on recent campaign,Festive_Sale,2025-11-09 09:28:41.495829
+5079e2c0-95d8-48da-93d5-2dd8e8527b97,user_619,Feedback on recent campaign,Festive_Sale,2025-11-09 09:49:41.496533
+6de98edd-9ec3-4428-bde4-0e42ff2aa2aa,user_743,Interested in new product updates,,2025-11-09 10:08:41.496688
+463a9aa9-91c3-410a-984b-425761530345,user_807,Requesting personalized recommendations,Product_Recommendation,2025-11-09 10:13:41.496794
+7642d9b6-d83a-45a3-a669-7b5779c62062,user_36,Asking about subscription plans,Seasonal_Promo,2025-11-09 11:11:41.495695
+a35d381d-15b6-4c80-9d8f-4f780bbbd7dd,user_307,Requesting personalized recommendations,Product_Recommendation,2025-11-09 17:01:41.496103
+f02beeff-fa08-47b2-87f7-b5ebf3700dd3,user_275,Asking about subscription plans,Festive_Sale,2025-11-09 17:07:41.496059
+40a40ab9-c34b-435a-92eb-176209dddd12,user_893,Requesting personalized recommendations,Product_Recommendation,2025-11-09 17:40:41.496904
+5b1aa164-9aa5-4799-ad5b-f0498ed6436c,user_2,Feedback on recent campaign,Seasonal_Promo,2025-11-09 19:10:41.495627
+8ea30fcd-2248-4b66-8489-c3b6b70df297,user_37,Requesting personalized recommendations,Product_Recommendation,2025-11-09 19:56:41.495698
+49a11f03-198f-427e-9e6e-7cef18adf9a2,user_37,Opened promotional email,Festive_Sale,2025-11-09 20:10:41.495698
+82661125-0752-4910-b195-002b0e9fff64,user_37,Viewed cart but did not checkout,Abandoned_Cart_Reminder,2025-11-09 21:17:41.495698
+550054d4-3400-4adc-8e61-29733af3ffe9,user_37,Searched for similar products,Seasonal_Promo,2025-11-09 21:29:41.495698
+030d64a7-ff48-49c6-bca2-7ce66064273f,user_37,Searched for similar products,Festive_Sale,2025-11-09 23:46:41.495698
+f6967e38-fb0f-46f2-b18d-2c235ec9b664,user_723,Need support with recent purchase,Festive_Sale,2025-11-10 10:45:41.496664
+1aa17340-ecc8-4e8f-9c1a-987b8da528bb,user_23,Looking for discounts,New_User_Welcome,2025-11-10 10:53:41.495675
+09f34c45-65e5-462a-a698-750f43e17692,user_421,Interested in new product updates,,2025-11-10 12:45:41.496257
+a54896b1-6ead-4f38-ad78-cc123db523c6,user_790,Looking for discounts,Seasonal_Promo,2025-11-10 14:59:41.496773
+9df95fc1-424f-4e54-9ed7-aa88a091df0f,user_489,Exploring premium features,New_User_Welcome,2025-11-10 16:37:41.496349
+0eb34dc7-d3d4-4984-b2cd-a3622db073ba,user_599,Feedback on recent campaign,Seasonal_Promo,2025-11-10 19:06:41.496505
+fc0f1534-ddf0-41a8-be84-88348e4f0c59,user_453,Need support with recent purchase,Seasonal_Promo,2025-11-10 21:39:41.496300
+5483f8db-3ccc-480a-983e-ff8cdd7c1bac,user_453,Opened promotional email,Festive_Sale,2025-11-10 22:39:41.496300
+d277256a-68cf-4776-8c5e-fb6ee41f92e7,user_498,Just browsing offers,Seasonal_Promo,2025-11-10 22:56:41.496361
+5ec3116f-4037-4b84-bb99-7129d9d70257,user_453,Viewed cart but did not checkout,Abandoned_Cart_Reminder,2025-11-10 23:18:41.496300
+7c5b5f60-36e9-4d3e-b063-330c8edf0fdc,user_453,Browsed category page,Festive_Sale,2025-11-11 00:16:41.496300
+616eee56-08d8-4275-abc1-d8dbcd50308a,user_300,Requesting personalized recommendations,Product_Recommendation,2025-11-11 00:39:41.496094
+fd950977-0405-4929-9abd-820f5973b11c,user_728,Requesting personalized recommendations,Product_Recommendation,2025-11-11 01:50:41.496670
+0760719b-1543-414d-ba58-97b464fb2df6,user_62,Feedback on recent campaign,Festive_Sale,2025-11-11 02:38:41.495743
+a43466d3-e91e-45d3-b99d-d89eb699cecd,user_362,Looking for discounts,,2025-11-11 09:40:41.496177
+3a9d7174-263b-4cbc-a0a4-34eddf62e795,user_870,Looking for discounts,New_User_Welcome,2025-11-11 11:32:41.496875
+54979774-dc74-4b82-9966-b19fa64e6c3f,user_458,Exploring premium features,Festive_Sale,2025-11-11 16:08:41.496307
+27347523-aa8f-48c9-ad41-86cffbb72f6f,user_402,Exploring premium features,New_User_Welcome,2025-11-11 16:47:41.496231
+fa26f8cf-b582-49d6-b2a9-9d5d11752887,user_730,Looking for discounts,Festive_Sale,2025-11-11 17:03:41.496672
+ad52b757-aceb-4879-93a9-950439751d1b,user_701,Requesting personalized recommendations,Product_Recommendation,2025-11-11 23:16:41.496635
+687d62fb-0376-4103-a666-9687b5adb055,user_168,Need support with recent purchase,,2025-11-12 04:42:41.495904
+24fa5ad1-94df-484e-9274-4a817bd4a635,user_494,Looking for discounts,Seasonal_Promo,2025-11-12 05:12:41.496356
+d8d3871a-76d7-41ff-bba8-2b33eb762174,user_709,Asking about subscription plans,Festive_Sale,2025-11-12 05:18:41.496647
+7169ae04-05d2-4df8-bd12-40bef1039f3d,user_50,Asking about subscription plans,Festive_Sale,2025-11-12 05:39:41.495728
+87f0124e-1787-4df4-ab61-1b96657a8842,user_244,Just browsing offers,Seasonal_Promo,2025-11-12 11:08:41.496017
+76572c0e-22a5-4ea3-ab67-890395659907,user_477,Just browsing offers,Seasonal_Promo,2025-11-12 17:40:41.496333
+51c2d16a-1f1f-4510-b92c-23be6f60fc04,user_890,Feedback on recent campaign,Festive_Sale,2025-11-12 19:38:41.496900
+89aa96d5-9f19-45ce-b935-548a3b3391db,user_319,,,2025-11-12 20:00:41.496119
+95cf6a3e-36e0-40d4-a209-62028ec450c9,user_680,Just browsing offers,Festive_Sale,2025-11-12 21:11:41.496609
+4bf95215-f05e-4dfa-b5fa-d2736fcce18c,user_783,Feedback on recent campaign,Seasonal_Promo,2025-11-12 23:34:41.496760
+9a43f758-dfc8-4704-b20f-3efac8d08002,user_296,Requesting personalized recommendations,Product_Recommendation,2025-11-12 23:59:41.496088
+ab25216e-4958-4928-8940-c23648ab2a29,user_872,Asking about subscription plans,Festive_Sale,2025-11-13 01:21:41.496878
+be2f6dd7-6276-4d3b-b385-b2bf0313f9a6,user_913,,,2025-11-13 02:49:41.496929
+3b2c6d99-d8b9-4ba4-9a99-9cfbed0c22b1,user_635,Interested in new product updates,Seasonal_Promo,2025-11-13 03:13:41.496553
+159a0a1d-2255-416b-930b-5ad81fdbb8fc,user_537,Exploring premium features,Seasonal_Promo,2025-11-13 04:21:41.496426
+5641dde6-bb36-454a-a31f-16d86cf1e390,user_43,Asking about subscription plans,New_User_Welcome,2025-11-13 09:29:41.495719
+c5a2299f-c487-46dd-a735-9ef72bae43ff,user_289,Exploring premium features,,2025-11-13 09:33:41.496078
+200c21fe-0584-430c-abee-749d0789824e,user_739,Interested in new product updates,,2025-11-13 11:48:41.496684
+80ee7949-36a7-4160-a85f-53876a0a4938,user_112,Asking about subscription plans,Seasonal_Promo,2025-11-13 14:41:41.495809
+3e153dcc-9d1d-4c5b-b014-3b9007505665,user_309,Feedback on recent campaign,Festive_Sale,2025-11-13 16:34:41.496106
+403c6a1f-19dc-4258-8095-d8b6941b23e0,user_76,Feedback on recent campaign,,2025-11-13 17:24:41.495761
+f2f0e075-b0f9-4b85-b555-38a7057965d6,user_917,Just browsing offers,Seasonal_Promo,2025-11-13 17:28:41.496933
+1a86577c-c6fc-49dd-ae66-096b613092d1,user_148,Interested in new product updates,Seasonal_Promo,2025-11-13 18:30:41.495856
+30603123-bcd2-4b6d-87b2-2cb857c8f7e7,user_917,Added item to wishlist,Wishlist_Nudge,2025-11-13 20:03:41.496933
+c49a87b5-b91b-4ff5-81e7-6dad9d05256a,user_657,Exploring premium features,Seasonal_Promo,2025-11-13 20:28:41.496581
+7f3367ab-5a8e-4c1b-9a23-14b6381bb2c4,user_130,Exploring premium features,Seasonal_Promo,2025-11-13 20:29:41.495832
+fdac8a96-208c-4b65-925a-494e5cc51164,user_917,Returned to app after notification,Reengagement_Push,2025-11-13 21:02:41.496933
+ddf13856-2bdd-4540-9f57-ba500f1508ec,user_775,Requesting personalized recommendations,Product_Recommendation,2025-11-13 21:12:41.496745
+70d89dbf-d52a-4dde-8e10-dfb9cef4bf70,user_59,,,2025-11-13 21:39:41.495739
+852e22cd-432c-4565-9195-8fb69f2f4245,user_799,Requesting personalized recommendations,,2025-11-14 00:57:41.496784
+9d9e90cf-6180-415e-9a3d-51e1618d1b9b,user_918,Need support with recent purchase,,2025-11-14 03:29:41.496935
+06c4ae1e-e9f5-476d-9186-c952f51d94ec,user_820,Asking about subscription plans,New_User_Welcome,2025-11-14 07:10:41.496811
+c17e6bc4-23e2-4838-bf31-720faa5a4f16,user_288,Need support with recent purchase,Seasonal_Promo,2025-11-14 08:09:41.496077
+61ad84a3-d7c7-4726-9947-26f6534ef414,user_123,Asking about subscription plans,Seasonal_Promo,2025-11-14 11:08:41.495823
+16603b80-834f-4a3e-9e80-a755f0e66c15,user_613,Just browsing offers,New_User_Welcome,2025-11-14 11:09:41.496523
+5750f0ee-60e3-4908-8d38-8a56efe9fc9c,user_123,Clicked on product recommendation,Product_Recommendation,2025-11-14 12:07:41.495823
+4d04306d-c3ce-4b36-904b-46e27df10b62,user_883,Just browsing offers,Seasonal_Promo,2025-11-14 14:22:41.496892
+ea109e8f-4f67-4a58-9d54-a6fd4b48a8ec,user_123,Viewed cart but did not checkout,Abandoned_Cart_Reminder,2025-11-14 14:24:41.495823
+adcd513a-6754-407c-a047-229db7eb4b23,user_810,Need support with recent purchase,Festive_Sale,2025-11-14 15:34:41.496799
+31894c78-ea88-43d6-852a-7da56fad0f98,user_201,Just browsing offers,Seasonal_Promo,2025-11-14 16:38:41.495958
+5b2f366a-4351-4e78-891e-9dd78aaed45d,user_971,Feedback on recent campaign,,2025-11-14 16:55:41.497034
+8c623828-15f0-44dc-8246-d899fa1e2ffe,user_888,,,2025-11-14 17:25:41.496898
+b65eced3-9c8a-45b1-b4bc-a5c4a137c7b3,user_843,Requesting personalized recommendations,Product_Recommendation,2025-11-14 17:31:41.496840
+62a77c0a-a0ba-45a0-aa44-92a1c9e168f4,user_859,Interested in new product updates,Seasonal_Promo,2025-11-14 18:35:41.496860
+3d21e54f-b5af-4e27-b05c-de6f791a178c,user_190,Just browsing offers,Seasonal_Promo,2025-11-14 19:09:41.495943
+f14abb66-f602-4806-a6c6-bd7be75ae529,user_865,Asking about subscription plans,Festive_Sale,2025-11-14 21:51:41.496868
+57be5fff-6eb9-4aed-ae50-967a6c2ddf72,user_476,Need support with recent purchase,,2025-11-14 23:37:41.496331
+242a3fff-c566-4282-a8ae-34b3d2286fb2,user_711,Need support with recent purchase,Festive_Sale,2025-11-15 01:07:41.496649
+e743b7c7-2b3e-4db0-8089-529af5dbb5e9,user_927,Need support with recent purchase,,2025-11-15 02:44:41.496946
+daad678d-bfbc-469b-ade1-9220a97d5447,user_655,Asking about subscription plans,Festive_Sale,2025-11-15 05:54:41.496578
+2e316b89-a286-496b-ab55-a819ce6b3fd5,user_762,Need support with recent purchase,Festive_Sale,2025-11-15 06:32:41.496727
+607c9a33-081b-4264-bf9f-96c645efb6bc,user_961,Exploring premium features,New_User_Welcome,2025-11-15 07:01:41.497019
+2035fc25-c7c0-4d9e-b294-394829388506,user_246,Requesting personalized recommendations,Product_Recommendation,2025-11-15 09:32:41.496020
+924ccf15-491f-48d2-ae40-6dcc1bfcdeb9,user_214,Looking for discounts,New_User_Welcome,2025-11-15 09:38:41.495976
+8b2ca38c-75df-4cd7-90ea-53e6df6ca53e,user_246,Returned to app after notification,Reengagement_Push,2025-11-15 11:56:41.496020
+1564aa30-1bbd-4339-b32a-9e6ee9f2a92d,user_246,Added item to wishlist,Wishlist_Nudge,2025-11-15 12:02:41.496020
+0f6cdf99-cc5a-4047-aec8-44fbffaadbb6,user_246,Opened promotional email,Festive_Sale,2025-11-15 12:49:41.496020
+7939ebeb-9f50-4312-92a0-3251e6016149,user_246,Added item to wishlist,Wishlist_Nudge,2025-11-15 13:01:41.496020
+a9d7aa31-3e8a-48b2-9348-18794ba9d448,user_331,Interested in new product updates,Seasonal_Promo,2025-11-15 20:10:41.496135
+9b760cbb-3c1f-44c6-b68b-e54df3abd8aa,user_331,Opened promotional email,Festive_Sale,2025-11-15 20:29:41.496135
+7c6f1675-4c1e-4998-b901-336af3e972aa,user_925,Requesting personalized recommendations,Product_Recommendation,2025-11-16 00:18:41.496943
+9be70505-bf2c-44c7-b038-cc8c07bb9491,user_733,Exploring premium features,Festive_Sale,2025-11-16 00:54:41.496676
+900bed5b-83f7-4cfa-86d8-ecd20ebde935,user_65,Feedback on recent campaign,Festive_Sale,2025-11-16 04:06:41.495746
+3d4c762f-d54d-4a79-9b7c-8ee1b2ccd714,user_507,Requesting personalized recommendations,Product_Recommendation,2025-11-16 07:14:41.496373
+ade50d45-7920-4868-a1a8-314594f8bf84,user_423,Interested in new product updates,Festive_Sale,2025-11-16 08:39:41.496260
+c60eb3af-24dd-4d97-9db1-4a63f4e7c26b,user_42,Requesting personalized recommendations,,2025-11-16 09:39:41.495718
+324f271a-d7c4-494c-85f0-9bc034852846,user_591,Asking about subscription plans,New_User_Welcome,2025-11-16 09:45:41.496494
+f5e35156-df9b-4e9b-9bcb-af553be921a1,user_162,Exploring premium features,Seasonal_Promo,2025-11-16 13:51:41.495881
+d1a9c661-716d-4f1c-8680-bfde8fdde6f6,user_698,Just browsing offers,Festive_Sale,2025-11-16 15:40:41.496631
+5193bd24-e51c-4199-8990-ec362e5c7974,user_97,Interested in new product updates,Festive_Sale,2025-11-16 16:26:41.495789
+bcd1d7ec-cac8-4c47-b89d-13b3bb100cdd,user_974,Requesting personalized recommendations,,2025-11-16 20:55:41.497044
+439e7a77-e26c-4dbd-a4c5-8b9d0770e611,user_699,Exploring premium features,New_User_Welcome,2025-11-16 21:05:41.496632
+fb8e4b2f-4d18-4118-b6dd-80de2d4e24be,user_667,Requesting personalized recommendations,Product_Recommendation,2025-11-16 22:42:41.496593
+56d7cbc1-8e5a-44d3-b85e-10d34054ee0c,user_544,Requesting personalized recommendations,Product_Recommendation,2025-11-16 22:45:41.496435
+4e0f59d5-65aa-4df9-9f57-465bb6b0af1d,user_199,,,2025-11-16 23:02:41.495955
+0be4b683-5b4e-4a25-886a-b9aaa633a59b,user_199,Viewed cart but did not checkout,Abandoned_Cart_Reminder,2025-11-17 00:30:41.495955
+1b479ac9-9049-49d1-86f8-8223351417d0,user_199,Searched for similar products,New_User_Welcome,2025-11-17 00:45:41.495955
+b8c33990-37b6-48fe-a58d-496e9300e165,user_609,Looking for discounts,,2025-11-17 05:11:41.496517
+750d9dbb-aafb-4045-ba26-8bb6e09123ba,user_531,Requesting personalized recommendations,Product_Recommendation,2025-11-17 07:36:41.496419
+ddd03b57-a2d0-4926-83e9-342d368b5ec2,user_615,Asking about subscription plans,New_User_Welcome,2025-11-17 08:10:41.496525
+fa8d0289-ca01-4089-b9df-927ebda33b2f,user_569,Interested in new product updates,,2025-11-17 12:17:41.496467
+943c9070-7101-4f24-8631-ee529c92ab57,user_357,Looking for discounts,New_User_Welcome,2025-11-17 13:49:41.496170
+c9621686-9b6a-4a12-be6d-7c7a3d53eae7,user_856,Looking for discounts,New_User_Welcome,2025-11-17 14:55:41.496857
+e8a9227c-9c0d-4aaa-8637-14ee67cc1018,user_915,Requesting personalized recommendations,Product_Recommendation,2025-11-17 17:16:41.496931
+481603f1-4ffe-4a72-9554-f28b8a1293bf,user_581,Interested in new product updates,Festive_Sale,2025-11-17 17:25:41.496482
+c12a1425-0202-4df7-b3ce-d4ad74a62f45,user_645,Asking about subscription plans,,2025-11-17 17:39:41.496566
+09a78c4d-103b-424a-962d-28da071cc724,user_915,Searched for similar products,New_User_Welcome,2025-11-17 18:21:41.496931
+75471c1f-cc30-4868-b8d2-3000038de53a,user_452,Exploring premium features,Seasonal_Promo,2025-11-17 18:41:41.496299
+3d0a7f6b-92b7-4123-ba74-3a22bcfe81c4,user_634,Looking for discounts,New_User_Welcome,2025-11-17 19:28:41.496552
+99970bc4-272e-4e91-a586-2dab4a8f54bc,user_7,,,2025-11-17 20:51:41.495638
+d129b9e0-9905-47e7-b711-001bc6ddd72c,user_57,Feedback on recent campaign,Festive_Sale,2025-11-17 22:35:41.495737
+b7b0b5ac-9ca9-4d15-8f03-5c50bcca75a6,user_812,Looking for discounts,Seasonal_Promo,2025-11-18 04:41:41.496801
+a34d4f40-2e78-4d98-8a42-cc657c4451da,user_467,Looking for discounts,New_User_Welcome,2025-11-18 05:16:41.496319
+788bb109-6033-464f-b758-14f37c192e78,user_682,Looking for discounts,New_User_Welcome,2025-11-18 05:16:41.496612
+b0093aff-8864-456c-8f4e-8268fef87ff6,user_161,Just browsing offers,New_User_Welcome,2025-11-18 11:03:41.495879
+78bd8d30-ca98-42dd-aaae-00f336c18f7f,user_849,Looking for discounts,Festive_Sale,2025-11-18 14:59:41.496847
+2d881d5d-cc99-4a4e-9378-8bc6f6f16edc,user_825,,,2025-11-18 16:26:41.496817
+534168e9-f632-4f15-b3e0-ea40c04323f5,user_825,Added item to wishlist,Wishlist_Nudge,2025-11-18 16:57:41.496817
+210d926a-984d-4809-a4ac-1cc2df2bfc7e,user_536,,,2025-11-18 17:41:41.496425
+beab15b5-3480-4bb7-87ad-308c7a0c8483,user_825,Added item to wishlist,Wishlist_Nudge,2025-11-18 17:53:41.496817
+84b8807e-5a9e-4d14-b3db-b14db478f6a7,user_825,Returned to app after notification,Reengagement_Push,2025-11-18 18:22:41.496817
+71a54975-bf78-4f27-96bb-b3c6df85223e,user_806,Looking for discounts,,2025-11-18 18:56:41.496793
+270263c6-2368-4549-ba1f-ec428701c52c,user_457,Interested in new product updates,Seasonal_Promo,2025-11-18 19:30:41.496306
+e9854061-17bb-4859-adab-fb7777cdac5b,user_825,Clicked on product recommendation,Product_Recommendation,2025-11-18 19:47:41.496817
+d57d37da-1c30-43ae-baf5-6cb5ceecbd69,user_751,Need support with recent purchase,New_User_Welcome,2025-11-18 20:44:41.496702
+b2b207c9-6f92-4b97-96bf-a5fdeed58d56,user_51,Just browsing offers,New_User_Welcome,2025-11-18 22:20:41.495729
+60beb128-925d-40cc-bb03-60c51f6058e7,user_681,Exploring premium features,Seasonal_Promo,2025-11-18 22:33:41.496610
+266c061c-3a96-47ee-be32-cd0f4f315f38,user_944,Need support with recent purchase,New_User_Welcome,2025-11-18 23:04:41.496970
+249d5ea4-0596-42e7-aefc-16949e01f0f0,user_329,Just browsing offers,Festive_Sale,2025-11-18 23:05:41.496132
+2d580b21-a2f4-4d0f-a1cd-73d840a97a4d,user_663,Looking for discounts,Seasonal_Promo,2025-11-19 01:04:41.496588
+8b40c9af-45cb-459d-a97c-57c7ac09f70a,user_999,Exploring premium features,Festive_Sale,2025-11-19 04:25:41.497077
+20076835-b669-40ca-afa5-ceb5528b0bce,user_408,Need support with recent purchase,Festive_Sale,2025-11-19 04:26:41.496240
+0a25e0cf-8ce1-49c0-829c-f4df58176f14,user_466,,,2025-11-19 04:27:41.496318
+b6c0e2bf-b3e3-4d2d-92bf-fa9d36642e22,user_79,Feedback on recent campaign,New_User_Welcome,2025-11-19 05:22:41.495765
+5a8506fe-ebf1-4110-be04-baaa9dba1d67,user_765,Need support with recent purchase,,2025-11-19 06:14:41.496732
+595ca20e-0749-466a-a21d-e4a2bb602bfd,user_874,Looking for discounts,,2025-11-19 06:32:41.496881
+19d1e0ce-01fc-423a-9188-73d05b37f4b3,user_874,Clicked on product recommendation,,2025-11-19 09:01:41.496881
+f140d6c9-0eb9-4685-9f9b-3618f8b566bd,user_903,Need support with recent purchase,Festive_Sale,2025-11-19 12:13:41.496916
+f8f3a788-1e65-4742-a7ae-6435fa4746f2,user_756,Need support with recent purchase,Festive_Sale,2025-11-19 12:27:41.496719
+1bd3f6c8-0f48-490a-8578-32e0a57a0f15,user_839,,,2025-11-19 15:13:41.496835
+d77110d8-6afe-4f2a-8dd3-02cdfaf3943d,user_839,Browsed category page,New_User_Welcome,2025-11-19 16:35:41.496835
+a07b6571-8a15-4eb5-a937-6dbe04e3352e,user_64,Just browsing offers,New_User_Welcome,2025-11-19 19:07:41.495745
+4c465a33-9495-43e7-9f81-38eb5650fce8,user_582,Feedback on recent campaign,Seasonal_Promo,2025-11-19 21:26:41.496483
+27a4854b-42c9-40b7-8279-e17a57feb08b,user_310,Exploring premium features,Festive_Sale,2025-11-19 22:06:41.496107
+032b9dcd-ffe6-44d8-b7f9-ae76432881a8,user_380,Feedback on recent campaign,,2025-11-19 23:31:41.496202
+3aeaf40f-dd2c-47c6-a102-e6bd3a95dc7a,user_66,Interested in new product updates,New_User_Welcome,2025-11-19 23:50:41.495748
+0fa2890c-f9f0-42b3-b042-6144f6614abb,user_764,Interested in new product updates,Seasonal_Promo,2025-11-20 01:43:41.496730
+2c8e3775-d55b-4f63-8c8e-30d9953752bc,user_74,Need support with recent purchase,New_User_Welcome,2025-11-20 03:02:41.495758
+e2db3194-5d36-4bb5-b2ad-531809214984,user_566,Interested in new product updates,Festive_Sale,2025-11-20 07:35:41.496463
+888d2bfd-651c-4652-bc0e-7647e5da8492,user_962,Feedback on recent campaign,,2025-11-20 08:00:41.497022
+2853314c-33c2-4593-9520-57748f0fb568,user_160,Just browsing offers,Seasonal_Promo,2025-11-20 08:55:41.495877
+ceba2262-7c82-4d30-8550-21a4915ba76c,user_98,Requesting personalized recommendations,Product_Recommendation,2025-11-20 12:07:41.495790
+677a3433-2808-48f2-9fa0-643cb4276825,user_85,Requesting personalized recommendations,Product_Recommendation,2025-11-20 13:01:41.495773
+b9d0e9e0-4ba7-4c91-acc8-17e2c737f1dd,user_555,Exploring premium features,Seasonal_Promo,2025-11-20 13:23:41.496449
+bf73f3f9-f1a2-4cc1-90d5-41beaaac33ea,user_587,Need support with recent purchase,Festive_Sale,2025-11-20 16:53:41.496489
+332a28d2-3395-4f4a-85bb-d6ddef3b5a37,user_353,Feedback on recent campaign,Festive_Sale,2025-11-20 19:07:41.496164
+f519f199-24c6-4f89-9f48-1f3873d9f3c0,user_994,Feedback on recent campaign,New_User_Welcome,2025-11-20 20:18:41.497070
+5e0ccc30-2201-4bd8-884a-5abb4262d8a0,user_267,Interested in new product updates,New_User_Welcome,2025-11-20 21:18:41.496048
+94ebea79-e9a0-4e5d-8ff4-dcd0455e3d24,user_858,Looking for discounts,,2025-11-20 21:57:41.496859
+17af9ad7-1798-47f7-96e3-b1573fdcd025,user_818,Interested in new product updates,Festive_Sale,2025-11-20 23:23:41.496809
+76df05c9-866f-4b2b-83cc-9acaba4e7884,user_707,Asking about subscription plans,Festive_Sale,2025-11-21 01:03:41.496644
+a1dfeb35-ede0-4ddc-a6ca-a4294cf3a73a,user_375,,,2025-11-21 01:31:41.496195
+16f3077d-2efa-4e2e-8376-40bf34f8f726,user_375,Opened promotional email,Festive_Sale,2025-11-21 02:34:41.496195
+0a26e31e-9aa9-47d7-a9c4-5bb9d707d0e3,user_375,Browsed category page,Festive_Sale,2025-11-21 02:58:41.496195
+78b84c84-2fe2-402e-9abe-7cd05df83812,user_773,Need support with recent purchase,New_User_Welcome,2025-11-21 04:06:41.496742
+7852a5d6-6949-4f66-84fe-87026cf374fc,user_164,Need support with recent purchase,Festive_Sale,2025-11-21 11:36:41.495886
+99cd312f-72e9-41f1-af1d-1c71cf501799,user_34,Asking about subscription plans,Festive_Sale,2025-11-21 13:00:41.495691
+f7ff3325-9b80-491c-ab93-46f3e9caaa89,user_376,Need support with recent purchase,Seasonal_Promo,2025-11-21 13:19:41.496196
+271a4bf8-35ef-4c69-b994-b597211428aa,user_556,Asking about subscription plans,New_User_Welcome,2025-11-21 16:53:41.496450
+16252a94-5765-47bf-b093-dd0749d4c3c4,user_514,Exploring premium features,Seasonal_Promo,2025-11-21 19:44:41.496388
+11513b2b-c1bb-465e-8451-38675694dba3,user_873,Interested in new product updates,Seasonal_Promo,2025-11-21 20:24:41.496879
+426d698d-5a3e-4876-8c7f-b219d2517a5e,user_514,Returned to app after notification,Reengagement_Push,2025-11-21 20:34:41.496388
+946becf0-69b9-4568-b291-353bbf147742,user_606,Interested in new product updates,Festive_Sale,2025-11-21 20:35:41.496514
+84e66b78-31f4-4aa5-b7b4-7dd1143b92f7,user_514,Searched for similar products,Festive_Sale,2025-11-21 22:24:41.496388
+18c8f49d-4289-47d5-b8d9-466e35684b00,user_514,Opened promotional email,,2025-11-21 23:22:41.496388
+d5d5082c-e6f8-4c13-a31d-bfd4a3f05374,user_519,Looking for discounts,Festive_Sale,2025-11-22 05:22:41.496401
+e4ff2806-3318-46f8-9e3c-bd20e91cbb5d,user_749,Looking for discounts,Seasonal_Promo,2025-11-22 09:26:41.496697
+ca07d041-c9a6-45f4-8cd9-843d08e623fc,user_118,Interested in new product updates,New_User_Welcome,2025-11-22 09:50:41.495817
+035de4cf-b71a-4e47-b172-d7743d15de43,user_983,Exploring premium features,New_User_Welcome,2025-11-22 14:56:41.497056
+f2df3a81-3298-43e9-b1cd-ce59824732da,user_384,Looking for discounts,,2025-11-22 15:43:41.496207
+c2a597b9-84ad-447e-8210-9734b712dce6,user_237,Interested in new product updates,Festive_Sale,2025-11-22 16:31:41.496008
+70eaf7c8-9c25-411f-8f73-08b886c50d4f,user_21,Asking about subscription plans,Festive_Sale,2025-11-22 16:49:41.495672
+2bf172c9-120a-42e6-81e5-45f10816a61c,user_460,Need support with recent purchase,New_User_Welcome,2025-11-22 17:29:41.496310
+d1b30421-1a92-4e14-87b6-c491f1988e9e,user_46,Asking about subscription plans,Seasonal_Promo,2025-11-22 18:14:41.495723
+aba1ef7c-ca4b-4075-9f7b-5cc56363cfed,user_108,Interested in new product updates,Seasonal_Promo,2025-11-22 23:10:41.495804
+742842f2-610c-451b-a3fe-ee2a38f47620,user_322,Just browsing offers,New_User_Welcome,2025-11-23 00:05:41.496123
+30e62258-8419-472b-b0fe-1b007ab06d1e,user_658,Feedback on recent campaign,Festive_Sale,2025-11-23 02:24:41.496582
+ce2c3c06-a8e3-42fe-b6cf-ca4f0170d4dc,user_304,Just browsing offers,New_User_Welcome,2025-11-23 03:53:41.496099
+624de3d9-8792-4b65-a22c-a24e3da63616,user_560,Requesting personalized recommendations,,2025-11-23 06:04:41.496455
+f12ae38e-2e36-4a9c-b401-afe0443652b3,user_257,Interested in new product updates,Seasonal_Promo,2025-11-23 06:24:41.496035
+a83ce5fd-b73e-49a3-a7b5-e8a115d69b52,user_433,,,2025-11-23 11:13:41.496273
+279c694e-ef91-405d-a5b2-ef227ce1aa75,user_390,Need support with recent purchase,,2025-11-23 12:11:41.496215
+7f87d7bd-9154-492c-9845-c37a28c7f99b,user_167,Feedback on recent campaign,,2025-11-23 14:31:41.495902
+5d80c4e7-0da6-46b7-9efc-2719fc31d9c2,user_774,Feedback on recent campaign,Festive_Sale,2025-11-23 15:41:41.496743
+1f5fa88c-1dcc-48ec-85e3-104d2cf4bdf0,user_816,,,2025-11-23 17:08:41.496806
+993b746d-5732-42d9-a70b-86387dadde0c,user_287,Asking about subscription plans,Festive_Sale,2025-11-23 18:24:41.496076
+b4e361ae-f4a5-4f7c-bc29-168382448a1c,user_221,Exploring premium features,New_User_Welcome,2025-11-23 18:52:41.495985
+f355fdba-cefe-4380-81fa-97bf8a57a8b8,user_389,Exploring premium features,New_User_Welcome,2025-11-23 19:55:41.496214
+13010c95-03b4-4b0a-ba92-52c3f2618fb9,user_405,Exploring premium features,Festive_Sale,2025-11-23 20:28:41.496236
+e1b74bae-cb23-49d8-b0c5-720c68280755,user_327,,,2025-11-23 22:57:41.496130
+dd924f0e-463d-4ecd-a398-f0068f39a237,user_747,Just browsing offers,Festive_Sale,2025-11-24 05:19:41.496694
+a48ba626-befe-4cc8-a63a-c8c1709d63bd,user_284,Asking about subscription plans,Festive_Sale,2025-11-24 05:27:41.496071
+85b38b52-974a-4559-9b45-34d769e77433,user_135,,,2025-11-24 05:56:41.495839
+8ea83999-e65a-4f92-bf2d-4a401cc44c66,user_450,Exploring premium features,,2025-11-24 06:06:41.496296
+d8479d3a-49ea-4f60-8908-efc31f116991,user_902,Just browsing offers,Seasonal_Promo,2025-11-24 06:13:41.496915
+9a83a6ca-e96e-4315-b16e-cc708e7af594,user_808,Interested in new product updates,Seasonal_Promo,2025-11-24 06:47:41.496796
+11c00f6e-4b8f-47f7-bfee-0fe82c6baf6a,user_801,,,2025-11-24 07:24:41.496787
+1aeead31-132d-4166-8151-5333846a8d3d,user_129,Requesting personalized recommendations,Product_Recommendation,2025-11-24 08:13:41.495831
+44255e92-cc7d-423c-8123-722c76aeeb35,user_939,Feedback on recent campaign,Festive_Sale,2025-11-24 08:57:41.496961
+21e5f14f-c48c-444a-ab03-dd517c0d75ad,user_953,Looking for discounts,,2025-11-24 09:44:41.496990
+4a0b321f-bf28-4ae3-bc9d-7303866b9bd8,user_354,,,2025-11-24 13:04:41.496166
+f2536a69-a59a-4683-94b4-528ef1382154,user_669,Interested in new product updates,Seasonal_Promo,2025-11-24 13:18:41.496595
+13f71801-bb01-417a-a5b6-ed056d17f5cf,user_427,Exploring premium features,Seasonal_Promo,2025-11-24 14:35:41.496265
+a6a2f23f-fab7-492a-a635-f61e14536880,user_493,Need support with recent purchase,New_User_Welcome,2025-11-24 15:35:41.496355
+558a9a14-dfa9-4bc4-9c14-fb4b132591da,user_738,Just browsing offers,Seasonal_Promo,2025-11-24 17:28:41.496682
+26aab377-d22f-4f6f-b88f-6d638b7a4c11,user_941,Interested in new product updates,Seasonal_Promo,2025-11-24 18:28:41.496963
+3cc430a9-5056-4097-8139-ae94a45108c8,user_253,Just browsing offers,,2025-11-24 18:32:41.496029
+84425fea-196a-4a7f-acb6-4345fb72af7e,user_301,,,2025-11-24 19:05:41.496095
+53396ce1-848d-42a1-904c-8926ab2fa72f,user_301,Returned to app after notification,Reengagement_Push,2025-11-24 19:54:41.496095
+1c5d150d-97c5-4c0b-8a0b-c4b68929a6b4,user_397,Interested in new product updates,Festive_Sale,2025-11-24 20:29:41.496224
+1b0bc42b-fd7f-4364-9456-681f16d75fdc,user_626,Feedback on recent campaign,Festive_Sale,2025-11-24 20:56:41.496542
+2ea483af-e566-4838-9574-5c1f174d913e,user_528,Just browsing offers,Seasonal_Promo,2025-11-24 21:02:41.496414
+12de4be5-7e15-4b13-adab-387f2523d41a,user_301,Searched for similar products,New_User_Welcome,2025-11-24 21:40:41.496095
+7f5b497b-c281-4f96-9da6-d92d5d27b1c8,user_301,Searched for similar products,New_User_Welcome,2025-11-24 21:58:41.496095
+5e24c6c1-ac17-498c-8224-823aac36cee8,user_301,Opened promotional email,Festive_Sale,2025-11-24 22:38:41.496095
+79e7d370-78e3-4863-82b1-0d6996d16450,user_366,Requesting personalized recommendations,,2025-11-24 22:54:41.496183
+26a71c35-0b44-4847-baee-1389f37e00ba,user_157,Exploring premium features,Seasonal_Promo,2025-11-25 00:02:41.495870
+4f024a85-038d-4e88-b25d-ee53dd370fb9,user_750,Interested in new product updates,New_User_Welcome,2025-11-25 01:11:41.496700
+13bfd71d-5b01-4af8-8770-2084ff900fff,user_251,Looking for discounts,New_User_Welcome,2025-11-25 02:26:41.496026
+2cad8bda-3a36-4fb3-844c-9e0bae1ad784,user_276,Requesting personalized recommendations,,2025-11-25 02:50:41.496061
+bbd56e5d-46e1-4c8f-af26-53103a2c6093,user_916,Asking about subscription plans,,2025-11-25 06:06:41.496932
+5b93167d-5497-4fe3-9a06-b374d7d27b88,user_964,Exploring premium features,Festive_Sale,2025-11-25 08:34:41.497025
+4ac02192-bd0e-416d-9446-c51fbd079fba,user_306,Just browsing offers,New_User_Welcome,2025-11-25 09:02:41.496102
+3cc31217-401f-4cc6-87a6-32ba4ddedd20,user_995,Asking about subscription plans,Festive_Sale,2025-11-25 16:31:41.497071
+b6b297d2-48c9-46a5-aaad-901a224c9b83,user_529,Interested in new product updates,Seasonal_Promo,2025-11-25 17:19:41.496415
+b1e12aa0-dc85-48ef-bf72-aa69ea545487,user_234,Need support with recent purchase,New_User_Welcome,2025-11-25 18:08:41.496004
+f64f9bb0-763b-45b5-852f-c321e5dd7064,user_824,Feedback on recent campaign,Festive_Sale,2025-11-25 18:49:41.496816
+93ebf0ce-d3c0-4bfc-a6dc-0a773f21b383,user_573,Interested in new product updates,Seasonal_Promo,2025-11-25 20:20:41.496472
+eceb958b-54e8-4f64-8e8b-874299089d6e,user_249,,,2025-11-25 23:10:41.496024
+ae8a8c9c-3258-4b7c-853c-b6c18fc4fab9,user_438,Feedback on recent campaign,New_User_Welcome,2025-11-25 23:16:41.496280
+c7b53002-567f-4cea-bd08-dfcf649c79bd,user_341,Interested in new product updates,,2025-11-26 04:00:41.496148
+059ea622-fb5a-4f27-b22d-6190e4024101,user_967,Requesting personalized recommendations,Product_Recommendation,2025-11-26 04:31:41.497029
+dccfd57a-95f0-43d4-a750-c29ed979c05b,user_475,Interested in new product updates,,2025-11-26 04:32:41.496330
+fb8c9e0f-2755-4952-8304-b54775fffe4a,user_242,Feedback on recent campaign,New_User_Welcome,2025-11-26 04:39:41.496014
+6ea4a946-4513-4515-9529-21002a6f3355,user_487,Interested in new product updates,Festive_Sale,2025-11-26 05:38:41.496346
+f6bc7700-4060-4672-adf7-2649195b4f24,user_341,,,2025-11-26 05:59:41.496148
+fade44d3-ae6a-4d15-8476-e70c99fcd660,user_268,Feedback on recent campaign,,2025-11-26 07:41:41.496049
+a11c04fa-8a0b-463e-b201-1b6742dc9ea1,user_89,Feedback on recent campaign,New_User_Welcome,2025-11-26 08:28:41.495778
+875f67b8-0ee2-4eb1-b6f3-1aa05ea1cace,user_178,Need support with recent purchase,,2025-11-26 10:46:41.495928
+85369c82-5dac-4101-8461-d2ae78ef52fe,user_197,Interested in new product updates,New_User_Welcome,2025-11-26 11:41:41.495953
+9556de4e-8a7e-496e-8623-af1cde5350ba,user_510,Feedback on recent campaign,New_User_Welcome,2025-11-26 13:58:41.496379
+628abaf2-7982-431a-b0e8-53b2f37853e5,user_942,Asking about subscription plans,,2025-11-26 14:10:41.496965
+4ee9b588-419d-4f08-8cb4-3df04f4e9252,user_604,Interested in new product updates,Festive_Sale,2025-11-26 15:22:41.496511
+0c88b704-5132-4bbf-9d08-fa192c243b0a,user_958,Exploring premium features,Seasonal_Promo,2025-11-26 16:07:41.497002
+9edad78f-1786-4d36-b817-859ff06ab7f7,user_193,Requesting personalized recommendations,Product_Recommendation,2025-11-26 16:12:41.495947
+3e0899de-928f-4a94-a5bc-5c1e6fbfa6c5,user_54,Requesting personalized recommendations,Product_Recommendation,2025-11-26 16:26:41.495733
+230821e5-203a-426d-899d-5cf799296efd,user_777,Requesting personalized recommendations,Product_Recommendation,2025-11-26 17:15:41.496747
+32e1ce16-336e-40e9-af75-1983d2b486cf,user_673,Exploring premium features,New_User_Welcome,2025-11-26 17:27:41.496600
+05da1f7c-c8a9-4395-8985-05093964e2eb,user_441,Interested in new product updates,,2025-11-26 17:48:41.496284
+43d00b2f-430f-498e-b218-a82e10a34480,user_11,Exploring premium features,Festive_Sale,2025-11-26 17:56:41.495659
+0b3fc28b-ad6b-47bc-8ef1-27be3a868545,user_226,Asking about subscription plans,Seasonal_Promo,2025-11-26 20:00:41.495992
+11ba7c08-462d-49fe-b1bb-a041cc8327ff,user_513,Looking for discounts,,2025-11-26 20:59:41.496386
+f8496931-f7cf-4389-a987-0d5ac3db865f,user_705,Exploring premium features,Festive_Sale,2025-11-27 02:34:41.496642
+70118650-601d-4df8-8210-5f572a3ec528,user_111,Looking for discounts,New_User_Welcome,2025-11-27 02:44:41.495808
+f5dc0bec-ff0b-447b-b412-107cc2b5f269,user_119,Need support with recent purchase,Festive_Sale,2025-11-27 02:55:41.495818
+e8cb76e9-cac6-47d3-b152-e66bf8b8ec87,user_205,Interested in new product updates,New_User_Welcome,2025-11-27 03:46:41.495964
+f856afcf-4885-413e-b8e9-53edb6763360,user_176,Feedback on recent campaign,Seasonal_Promo,2025-11-27 06:26:41.495925
+699f8fd2-b4b2-48af-b909-57432134ddb1,user_578,Asking about subscription plans,,2025-11-27 06:33:41.496478
+a4ab1f8d-dcc0-4e40-bd69-449ea7549f7e,user_4,Feedback on recent campaign,New_User_Welcome,2025-11-27 07:01:41.495631
+beb81a9f-a39e-417e-997d-5c535131a897,user_176,Searched for similar products,Festive_Sale,2025-11-27 07:18:41.495925
+4505a78d-465a-46e3-bc16-524e0e7d08c4,user_303,Just browsing offers,New_User_Welcome,2025-11-27 07:26:41.496098
+a158e1db-4f96-4b91-894f-75d532e42c48,user_176,Clicked on product recommendation,Product_Recommendation,2025-11-27 09:46:41.495925
+8b053dbf-1e0f-49d9-9d7c-41df253c61e4,user_386,Exploring premium features,,2025-11-27 10:33:41.496210
+d48f3ade-dcb2-437e-a7e8-73ca38e00cf4,user_562,Interested in new product updates,New_User_Welcome,2025-11-27 11:00:41.496458
+0bd1b757-9a8c-4b45-848a-717f7dd50249,user_166,Need support with recent purchase,New_User_Welcome,2025-11-27 13:14:41.495890
+897b5af6-fcd7-4ac7-9824-ddccf0a14da2,user_601,Need support with recent purchase,Seasonal_Promo,2025-11-27 15:07:41.496507
+10e16957-3d82-4b03-b9e5-46ea883f99f8,user_166,Added item to wishlist,Wishlist_Nudge,2025-11-27 15:22:41.495890
+a41c66a1-3ed4-478f-8f2a-c5ecc5255bab,user_770,Just browsing offers,Festive_Sale,2025-11-27 15:58:41.496738
+c6d337c1-3441-4749-8b8a-ad15f8f01c15,user_156,Feedback on recent campaign,New_User_Welcome,2025-11-27 16:35:41.495868
+97d1ef5f-61fa-4d07-b20b-ac2dc4d19d24,user_166,Returned to app after notification,Reengagement_Push,2025-11-27 16:52:41.495890
+7ed1672b-b4dc-43f3-aaba-6ea9e996efe9,user_324,Just browsing offers,Seasonal_Promo,2025-11-27 18:43:41.496126
+e943541b-1b09-42e0-8a42-f97b349c092d,user_579,,,2025-11-27 20:24:41.496479
+0e149a6c-93e6-42bb-a5f6-bb2312aa98f2,user_694,Need support with recent purchase,Festive_Sale,2025-11-27 22:49:41.496626
+0ab1bb58-a7f3-42ca-a1e6-9674d148150f,user_623,Feedback on recent campaign,New_User_Welcome,2025-11-27 23:27:41.496538
+410d797e-0186-4911-8afc-bc836c7e4a86,user_526,Looking for discounts,New_User_Welcome,2025-11-27 23:49:41.496412
+c329b049-b1db-4e2f-b2d2-4627f8f7ab4e,user_266,Need support with recent purchase,Festive_Sale,2025-11-28 01:07:41.496047
+bde4e313-3759-4143-b8ab-fb874270c3ee,user_715,Requesting personalized recommendations,Product_Recommendation,2025-11-28 02:37:41.496654
+37b6151e-30d1-413b-aa8f-da323ec0b203,user_558,Asking about subscription plans,Seasonal_Promo,2025-11-28 08:45:41.496453
+cf1d0472-5ac3-450a-b768-0c69ef6460d0,user_558,Searched for similar products,,2025-11-28 09:06:41.496453
+091262e8-a645-4861-8793-89d950fbcd76,user_864,Feedback on recent campaign,Festive_Sale,2025-11-28 09:15:41.496867
+f712844a-1c12-4578-a5a5-76557d570ec3,user_558,Added item to wishlist,Wishlist_Nudge,2025-11-28 09:28:41.496453
+00fa3f18-2709-4b95-8cfe-174a84ed4865,user_558,Viewed cart but did not checkout,Abandoned_Cart_Reminder,2025-11-28 12:44:41.496453
+15e13222-2a32-425a-a00b-d58e4b896384,user_969,Looking for discounts,Seasonal_Promo,2025-11-28 15:01:41.497031
+f2b3c4a8-7d3f-49cc-8c1f-ceadc75de043,user_26,Just browsing offers,Seasonal_Promo,2025-11-28 17:06:41.495679
+0778068a-ad96-4b10-8495-9483514c463d,user_509,,,2025-11-28 17:59:41.496376
+af0e1728-6755-4e13-b280-ba95644e26af,user_430,Interested in new product updates,New_User_Welcome,2025-11-28 21:53:41.496269
+d987f43e-2a31-4edb-a1b1-b3131d166d5f,user_866,Looking for discounts,New_User_Welcome,2025-11-28 22:18:41.496870
+70f0eced-20de-4ccd-9223-b7ec956c548e,user_590,,,2025-11-29 00:21:41.496493
+d4d02ddd-5537-4ed5-95cd-ca538efc09c2,user_358,Need support with recent purchase,Seasonal_Promo,2025-11-29 01:19:41.496172
+9f3fa463-060a-49a9-9753-93022fbde42b,user_598,Interested in new product updates,Seasonal_Promo,2025-11-29 01:51:41.496504
+08a5972f-a720-4e3a-b78f-b663ea61522e,user_855,Asking about subscription plans,New_User_Welcome,2025-11-29 03:42:41.496855
+e73c224c-768a-4f1b-bfd8-13eb732d9b68,user_181,Exploring premium features,Festive_Sale,2025-11-29 04:03:41.495932
+5639ee21-e553-46d3-8d5f-e5e66cd28aac,user_235,Interested in new product updates,New_User_Welcome,2025-11-29 05:34:41.496005
+518eedb8-62b0-40ed-ae9c-980a3a15b43c,user_665,Just browsing offers,,2025-11-29 06:58:41.496590
+6379a425-5463-4287-b9e6-3deb4a2de2a8,user_491,Need support with recent purchase,Seasonal_Promo,2025-11-29 08:14:41.496352
+3dad0619-6b01-4814-bc30-63c706e2887a,user_470,Just browsing offers,,2025-11-29 09:16:41.496323
+b15bb0d8-f07e-42df-be51-1230b3c588ca,user_949,Interested in new product updates,Festive_Sale,2025-11-29 10:06:41.496981
+1b4c9544-6b7c-4bd0-95d8-8dd1940cc98a,user_40,Feedback on recent campaign,New_User_Welcome,2025-11-29 10:13:41.495714
+017646cd-941d-44bc-9254-bd24bcab6b93,user_335,Feedback on recent campaign,Seasonal_Promo,2025-11-29 11:29:41.496140
+864a457e-42f8-47a5-9d9b-cc0451b77e63,user_847,Need support with recent purchase,New_User_Welcome,2025-11-29 14:19:41.496845
+6c355a42-c14a-499c-9f31-627c15e334f0,user_407,Interested in new product updates,Seasonal_Promo,2025-11-29 18:42:41.496238
+8fda1720-1b20-43a4-8f15-ff835ed4b351,user_512,Interested in new product updates,New_User_Welcome,2025-11-29 20:38:41.496383
+f3e59232-c20c-44f4-be14-c618807325cb,user_143,Feedback on recent campaign,Seasonal_Promo,2025-11-29 21:47:41.495849
+bf6e9008-7912-4281-b773-12dc5e3f00e1,user_846,Requesting personalized recommendations,Product_Recommendation,2025-11-29 22:05:41.496844
+cef497f5-0dba-4169-b1fa-08f0c07bb069,user_184,Requesting personalized recommendations,Product_Recommendation,2025-11-30 00:18:41.495936
+a8a011d3-4bd4-4919-952f-d1a3a2c1e804,user_1,Exploring premium features,Seasonal_Promo,2025-11-30 03:00:41.495614
+558333b2-a053-4dfd-b2af-9d27bb359f8e,user_263,Requesting personalized recommendations,Product_Recommendation,2025-11-30 03:29:41.496043
+f690ae8a-a855-4085-a1cd-54a2aa1e1fd3,user_788,Just browsing offers,New_User_Welcome,2025-11-30 04:39:41.496771
+1effd49d-6152-4055-8c3e-6c5287c6b089,user_724,Just browsing offers,Festive_Sale,2025-11-30 05:05:41.496665
+30094a04-74f3-4c61-a37d-e45d7f3088a7,user_685,Need support with recent purchase,New_User_Welcome,2025-11-30 05:39:41.496615
+7269a450-3279-4c44-b6ff-7914c9492b7a,user_485,Requesting personalized recommendations,,2025-11-30 07:49:41.496343
+d639ad3a-8ad3-433f-a72b-500b400ab411,user_388,Just browsing offers,New_User_Welcome,2025-11-30 10:05:41.496212
+5d76019c-c6ec-4640-9058-14a925e44231,user_278,Exploring premium features,Seasonal_Promo,2025-11-30 10:47:41.496063
+e256235a-11eb-406e-80bc-c5bf6e2455fd,user_837,Looking for discounts,Festive_Sale,2025-11-30 12:24:41.496833
+f4c0d73f-6572-421d-ba00-b7ff71c5ce50,user_12,Asking about subscription plans,Seasonal_Promo,2025-11-30 12:40:41.495660
+64e45827-48f9-4747-89a7-20909a66a667,user_539,,,2025-11-30 14:38:41.496429
+e58e2108-a18d-45f6-bf3f-138171eca687,user_985,Asking about subscription plans,Seasonal_Promo,2025-11-30 15:43:41.497058
+f8ca2360-5c8f-499c-b8b7-14258522e878,user_996,Requesting personalized recommendations,Product_Recommendation,2025-11-30 16:57:41.497073
+e86c9491-b699-4652-a71c-a779453e9a6f,user_215,Asking about subscription plans,Festive_Sale,2025-11-30 17:26:41.495977
+b7a35dd3-7ecb-4508-beda-484953a6434a,user_360,Just browsing offers,New_User_Welcome,2025-11-30 17:46:41.496174
+6ea8c05c-6ae4-46e7-9665-f6f3f5ace2e0,user_908,Need support with recent purchase,Festive_Sale,2025-11-30 17:47:41.496923
+2c3b164f-4659-42bd-bb56-663348d2434c,user_134,Requesting personalized recommendations,Product_Recommendation,2025-11-30 20:10:41.495837
+d676b916-0100-4354-a236-64b22532b0dc,user_224,Exploring premium features,Festive_Sale,2025-11-30 23:27:41.495989
+f5b09598-0379-4d5e-b5e8-1c838c55073f,user_425,Exploring premium features,Seasonal_Promo,2025-12-01 04:10:41.496263
+03b865a4-a89a-4a44-85b4-15340f7c9ac8,user_332,,,2025-12-01 04:32:41.496136
+c9594198-b375-42fb-87a1-1a1694fa529b,user_425,Searched for similar products,Seasonal_Promo,2025-12-01 05:56:41.496263
+c233ef76-999f-4f94-a7b3-9176fd78fcb9,user_662,Just browsing offers,New_User_Welcome,2025-12-01 06:00:41.496587
+c0a17cf7-a13d-46fa-b2fb-adad802aace9,user_153,Need support with recent purchase,,2025-12-01 06:09:41.495862
+a031f6ef-da21-49bd-9416-8d301969dc6b,user_796,Interested in new product updates,New_User_Welcome,2025-12-01 07:34:41.496781
+43f4d575-005f-46f9-99ff-1e64a77ad7d5,user_662,Added item to wishlist,,2025-12-01 07:38:41.496587
+04098ba5-67e2-44f5-8411-b90830a60f5b,user_811,Exploring premium features,New_User_Welcome,2025-12-01 08:02:41.496800
+f1edd53c-b54d-4249-9fa4-cb472e825df1,user_662,Browsed category page,Festive_Sale,2025-12-01 08:52:41.496587
+701a08fe-3e0c-4051-b331-533a6943a0f1,user_662,Searched for similar products,Festive_Sale,2025-12-01 08:52:41.496587
+53e2c2cf-6bb3-434f-bc54-0abe2ec8bc24,user_900,Requesting personalized recommendations,Product_Recommendation,2025-12-01 09:01:41.496913
+1422b691-7637-4cc3-a9a9-cd257d010b81,user_900,Clicked on product recommendation,Product_Recommendation,2025-12-01 09:32:41.496913
+dbdce90f-ab4a-4e58-b65b-008c537f6ae8,user_900,Returned to app after notification,Reengagement_Push,2025-12-01 10:20:41.496913
+839b63ed-9d39-46aa-ad24-4256973c61e7,user_647,Need support with recent purchase,Seasonal_Promo,2025-12-01 17:28:41.496568
+9a596100-af9d-4d96-95e1-123d918f3fbf,user_990,Requesting personalized recommendations,Product_Recommendation,2025-12-01 19:15:41.497065
+3c45f33c-5ca8-4e7b-ab57-2f8656895351,user_696,Feedback on recent campaign,New_User_Welcome,2025-12-02 00:42:41.496629
+5902d1f6-4d35-4890-acaf-506f9e42ee57,user_956,Interested in new product updates,Festive_Sale,2025-12-02 01:02:41.496997
+ebc11635-8966-464b-a399-fa99510a11d0,user_448,Asking about subscription plans,,2025-12-02 03:40:41.496294
+25379b12-92ff-478f-8346-d1794419deba,user_661,Looking for discounts,,2025-12-02 04:20:41.496585
+30296974-0d46-4b50-8b57-a576c677ca36,user_896,Need support with recent purchase,Festive_Sale,2025-12-02 06:51:41.496908
+7e1dcd72-121e-45ac-b442-532f7614d998,user_394,Need support with recent purchase,New_User_Welcome,2025-12-02 08:16:41.496220
+486095b2-0f68-4870-8364-b5b725b30eb2,user_759,Looking for discounts,Seasonal_Promo,2025-12-02 09:18:41.496723
+a3368e25-c4a1-4845-8931-190141445f68,user_564,Need support with recent purchase,Festive_Sale,2025-12-02 13:44:41.496460
+5b476029-1ed5-4bfc-adde-6a4d42d83c2e,user_823,Feedback on recent campaign,Festive_Sale,2025-12-02 15:03:41.496815
+d142585c-e2e5-4d3c-bdd0-d0f30f3e09ca,user_351,Exploring premium features,New_User_Welcome,2025-12-02 17:51:41.496161
+355e94ba-e0e2-4b86-b6fa-3c284515f691,user_767,Exploring premium features,Seasonal_Promo,2025-12-02 18:57:41.496734
+70f5c779-6536-4f1b-be51-b9c27e3bbb61,user_15,Feedback on recent campaign,Festive_Sale,2025-12-02 20:13:41.495664
+0eb4b8b4-f377-4d6e-94fe-0528de554a78,user_767,Clicked on product recommendation,Product_Recommendation,2025-12-02 20:23:41.496734
+4ca36b83-e740-47e0-95e3-0c122567daef,user_414,Asking about subscription plans,New_User_Welcome,2025-12-02 20:38:41.496248
+39c8f420-d445-42bb-8fb3-c576755430d7,user_185,Requesting personalized recommendations,Product_Recommendation,2025-12-03 01:45:41.495937
+49142bc0-3af5-424d-ac83-6e9a985d9e70,user_230,,,2025-12-03 01:58:41.495998
+7ec8ca14-2426-4084-956d-5613a6c9adde,user_781,Feedback on recent campaign,,2025-12-03 02:29:41.496755
+b47a6063-1592-41ce-a0af-1353a0c4f2c0,user_260,Need support with recent purchase,New_User_Welcome,2025-12-03 02:37:41.496039
+e9a7f004-8025-44a5-b751-b3f5821eea6a,user_218,,,2025-12-03 03:49:41.495981
+6e2aa4ad-3d5f-4081-a5cb-a05550d3047f,user_781,Added item to wishlist,,2025-12-03 04:12:41.496755
+3c1fb5f9-9bb1-480c-966f-421c4421b44a,user_781,Clicked on product recommendation,,2025-12-03 04:36:41.496755
+67815a5f-43c8-4ae0-b8b2-e03272c70b88,user_348,Requesting personalized recommendations,,2025-12-03 07:10:41.496157
+83e3f447-d4a8-4319-8888-2a019885e32c,user_151,Looking for discounts,Festive_Sale,2025-12-03 07:41:41.495860
+feeba6fd-5550-4459-a642-19e05dec0804,user_151,Returned to app after notification,Reengagement_Push,2025-12-03 08:13:41.495860
+4d1325a9-1e96-4cce-98cb-568d3b970316,user_151,,,2025-12-03 09:09:41.495860
+734237a3-6378-42c0-b010-d7e7e7144ec9,user_151,Returned to app after notification,Reengagement_Push,2025-12-03 09:37:41.495860
+1090ed83-823d-4bba-935c-b9b0db11f0d2,user_151,Returned to app after notification,Reengagement_Push,2025-12-03 10:04:41.495860
+5cab62f3-34db-4967-8a9e-d7a514dabf17,user_836,Interested in new product updates,Festive_Sale,2025-12-03 10:57:41.496831
+25a3d860-9539-4a47-84af-40ca414d9057,user_104,Exploring premium features,Festive_Sale,2025-12-03 14:33:41.495798
+646dccdf-e222-4d5e-ad27-d5e47cedf2b6,user_104,Browsed category page,,2025-12-03 15:26:41.495798
+0ac8683f-4a7a-4fb5-b520-f4c3c5a078b9,user_104,Clicked on product recommendation,Product_Recommendation,2025-12-03 15:31:41.495798
+a7990436-4f2d-47bf-837f-859105199742,user_104,Added item to wishlist,Wishlist_Nudge,2025-12-03 16:50:41.495798
+e2e1b957-5d84-4164-a5a6-f70a96c58f7d,user_104,Browsed category page,Festive_Sale,2025-12-03 17:30:41.495798
+2363187a-dc8e-4ba4-af55-d96ff5719fa8,user_440,Feedback on recent campaign,,2025-12-03 18:31:41.496283
+bd2e3ece-9cc9-4950-b12c-16cc15062ed8,user_868,Feedback on recent campaign,,2025-12-03 18:49:41.496872
+746920c1-4a84-419d-9bd4-eeccce70309b,user_378,Exploring premium features,,2025-12-03 22:25:41.496199
+cf2340a4-0696-44bf-9464-28b0cb7fd99c,user_84,Feedback on recent campaign,Seasonal_Promo,2025-12-04 00:39:41.495771
+b4fa08af-ce66-4b46-8851-e01839293b77,user_228,Requesting personalized recommendations,Product_Recommendation,2025-12-04 00:46:41.495995
+fa1a2d60-b3c0-46f4-aff5-43b9e8a9150a,user_852,Requesting personalized recommendations,Product_Recommendation,2025-12-04 01:03:41.496851
+e76c06b8-5133-4c9e-a853-7af146435408,user_517,Exploring premium features,Seasonal_Promo,2025-12-04 01:53:41.496395
+307387a9-1f9d-416d-a85b-f825f955c349,user_506,Need support with recent purchase,Seasonal_Promo,2025-12-04 03:11:41.496372
+6e6e9e2f-18b3-45ba-b8ed-28fc9f545c39,user_280,Exploring premium features,Festive_Sale,2025-12-04 07:03:41.496066
+208869c0-dcf8-4c4e-af62-12999cdd5112,user_648,Interested in new product updates,Seasonal_Promo,2025-12-04 07:41:41.496569
+e82a7e6c-56ea-4f59-a80d-78254a6a715d,user_884,Exploring premium features,Seasonal_Promo,2025-12-04 09:36:41.496893
+2e47de15-21c3-43eb-aae8-5937c3a117cd,user_302,Interested in new product updates,Festive_Sale,2025-12-04 10:28:41.496096
+c950a2f4-3760-4122-b91c-ddd8796973f5,user_286,Asking about subscription plans,New_User_Welcome,2025-12-04 11:53:41.496074
+c876bf79-4a4f-4e64-b388-b095803d10b5,user_660,Feedback on recent campaign,New_User_Welcome,2025-12-04 12:40:41.496584
+681d3361-9f0f-481d-88dd-b5f8dd42a401,user_585,Feedback on recent campaign,,2025-12-04 13:59:41.496487
+41078656-bffb-4a9a-830d-fea0a0a94836,user_5,Need support with recent purchase,New_User_Welcome,2025-12-04 19:49:41.495633
+b4799472-d2ac-4a3e-8fa4-e344361a6b62,user_720,Requesting personalized recommendations,Product_Recommendation,2025-12-04 23:06:41.496660
+46009cb4-4004-48a7-917a-8cdfdb6217ca,user_213,Asking about subscription plans,Seasonal_Promo,2025-12-04 23:10:41.495974
+85eeeb44-e5f2-45e3-b8ff-6c2b749e2e6e,user_959,Looking for discounts,,2025-12-05 00:17:41.497005
+f05d7388-83f9-4d38-a50f-cfcbc17704b2,user_61,Just browsing offers,Seasonal_Promo,2025-12-05 03:27:41.495742
+e35ebf68-d649-4be1-84c1-1ceb1d156f45,user_163,Looking for discounts,New_User_Welcome,2025-12-05 12:55:41.495883
+566755cf-d88f-4c2e-86ba-2dd1922a68de,user_620,Just browsing offers,Festive_Sale,2025-12-05 14:50:41.496535
+07ecddd7-07b7-404c-a92f-d921c50d5d9a,user_320,Just browsing offers,Festive_Sale,2025-12-05 15:20:41.496121
+bf30b5fa-3c9e-43b2-8711-1d74d940b85b,user_951,Need support with recent purchase,New_User_Welcome,2025-12-05 15:31:41.496985
+0dbc2199-4357-4fd0-9965-5bd6f02f26a8,user_247,Requesting personalized recommendations,Product_Recommendation,2025-12-05 23:12:41.496021
+632e0fa3-02a3-46c4-bea0-4a3c23eb6b51,user_741,Just browsing offers,Festive_Sale,2025-12-06 01:38:41.496686
+b648f2b0-d0f2-4f34-9aa5-256a0f4fb997,user_417,Asking about subscription plans,New_User_Welcome,2025-12-06 02:26:41.496251
+da744c12-75a4-423c-a87f-e04c84976ec1,user_439,Need support with recent purchase,,2025-12-06 02:28:41.496281
+70a223cf-49e0-4200-aaf1-0068b78016f5,user_19,,,2025-12-06 05:49:41.495669
+77c146cd-545f-4434-9b26-b95ab809f826,user_468,Need support with recent purchase,Festive_Sale,2025-12-06 11:52:41.496321
+ca3042df-b8c2-4081-b19f-ad1f9523df96,user_272,Looking for discounts,,2025-12-06 13:49:41.496055
+b03291c4-2615-4d25-a506-54d1e22fe3c7,user_139,Need support with recent purchase,New_User_Welcome,2025-12-06 14:21:41.495844
+1506e6f5-f67d-4365-bfe3-a3f45e5aba26,user_632,,,2025-12-06 16:56:41.496550
+ff7b97cb-8694-489e-a779-ab546827f12a,user_716,Interested in new product updates,Seasonal_Promo,2025-12-06 18:04:41.496655
+63c56b51-47f1-4572-8505-9f76262cf51f,user_189,Exploring premium features,New_User_Welcome,2025-12-06 19:02:41.495942
+cb152bd6-2183-4ebc-8bc9-e276fc792210,user_103,Looking for discounts,Seasonal_Promo,2025-12-06 21:05:41.495797
+ce57bbd0-1b3e-42a0-b34c-c1356bd1ab18,user_177,Need support with recent purchase,Seasonal_Promo,2025-12-06 22:59:41.495927
+7cb2dd79-af84-49a6-ac8c-b4b68d74bb6a,user_683,Asking about subscription plans,Festive_Sale,2025-12-07 00:28:41.496613
+a4435809-8ca0-4f1f-b56e-7f74835e13a7,user_370,Need support with recent purchase,Seasonal_Promo,2025-12-07 02:02:41.496188
+25a6a5d2-de85-4e3a-af85-f86053e15f3a,user_972,Looking for discounts,Seasonal_Promo,2025-12-07 05:44:41.497035
+b7d7cfe9-f071-47d1-a236-fd0567f4b2eb,user_972,Browsed category page,Festive_Sale,2025-12-07 07:59:41.497035
+812448ff-3b78-4a41-a27e-3504d9c6a2d9,user_972,Clicked on product recommendation,Product_Recommendation,2025-12-07 09:09:41.497035
+780a7527-3c76-45e3-a4aa-eba7888dbf9f,user_654,Interested in new product updates,,2025-12-07 09:16:41.496577
+d7248ad4-592a-4736-b25e-e3b419aeecc0,user_495,Interested in new product updates,,2025-12-07 10:17:41.496357
+3c5ac2f0-60c0-42e9-a18e-e7e40bc1db0d,user_495,Viewed cart but did not checkout,Abandoned_Cart_Reminder,2025-12-07 12:14:41.496357
+794c14f3-ca72-4214-868f-93c4b7f80870,user_989,Exploring premium features,Seasonal_Promo,2025-12-07 12:17:41.497064
+923b0e7f-9aa0-4442-8f22-b05842de6401,user_248,Exploring premium features,Festive_Sale,2025-12-07 13:28:41.496022
+765fa9f4-eef4-4634-ab64-b3eb178fb007,user_745,,,2025-12-07 15:08:41.496691
+baad0e11-cad9-4169-886d-3912d9053be8,user_347,Looking for discounts,Seasonal_Promo,2025-12-07 17:42:41.496156
+1d70acb3-bc19-4200-b026-9ce4cbd6a727,user_454,,,2025-12-07 17:57:41.496301
+64372e3a-196e-48f2-b119-e882dd7345b2,user_207,Just browsing offers,Festive_Sale,2025-12-07 18:53:41.495966
+b27b1b04-b902-44a8-838a-5235c258da60,user_712,,,2025-12-07 20:20:41.496650
+bc070f41-a018-4b24-af41-d7b7407225d4,user_382,Asking about subscription plans,New_User_Welcome,2025-12-07 21:12:41.496204
+58574cc6-50f6-4442-a47c-dffa5106efcf,user_897,Interested in new product updates,Festive_Sale,2025-12-07 21:54:41.496909
+bd2f219d-990b-4937-bbda-3913768d49ee,user_159,Asking about subscription plans,Seasonal_Promo,2025-12-07 22:15:41.495875
+165c73b5-4afb-4d82-a730-5fbfc6e2d8d2,user_931,Need support with recent purchase,Seasonal_Promo,2025-12-08 04:29:41.496951
+02e13246-9208-4415-b3cd-15d7014577ed,user_225,Requesting personalized recommendations,Product_Recommendation,2025-12-08 07:24:41.495991
+1bbef5f8-c68a-4d99-aaae-bcd699c6f084,user_250,Asking about subscription plans,Festive_Sale,2025-12-08 11:07:41.496025
+d030a3a9-88f9-463d-8fdb-420f967bae18,user_834,Need support with recent purchase,New_User_Welcome,2025-12-08 11:47:41.496829
+6b3dbbe3-5c8f-4115-a7e3-d88883daf901,user_293,Need support with recent purchase,New_User_Welcome,2025-12-08 14:26:41.496084
+3db2f727-c722-48a5-ac75-9696e80e271d,user_844,Just browsing offers,Seasonal_Promo,2025-12-08 16:23:41.496841
+7bab52ad-8784-4f0d-9c47-9167cd4570cd,user_789,Exploring premium features,New_User_Welcome,2025-12-08 18:58:41.496772
+c691ffde-c3d2-4c30-a279-cc54458728f8,user_364,Asking about subscription plans,Festive_Sale,2025-12-08 21:26:41.496180
+6c8c519e-b95a-4ea5-9943-0652d55e8d0e,user_364,,,2025-12-08 21:39:41.496180
+a992dffd-4f86-4c0e-8786-3cafdc3a5687,user_93,Feedback on recent campaign,Seasonal_Promo,2025-12-08 21:52:41.495784
+a587f66c-394f-41ff-b11a-54aa48e578a4,user_297,,,2025-12-08 21:53:41.496090
+c3e5d60c-b617-4f7d-93ef-146531efbbbb,user_541,,,2025-12-08 23:28:41.496431
+46eb1cc3-af55-43b5-aead-679f5bdf38ca,user_364,Returned to app after notification,Reengagement_Push,2025-12-09 00:13:41.496180
+e3b5ca8c-2a21-497d-a67b-db57a16c0f1d,user_909,Interested in new product updates,Seasonal_Promo,2025-12-09 01:01:41.496924
+8aa16bbb-f643-4536-82cd-d87dcb2a4448,user_532,Exploring premium features,New_User_Welcome,2025-12-09 04:46:41.496420
+030879b1-8b74-479f-bf4f-04b5409353cd,user_933,Asking about subscription plans,Festive_Sale,2025-12-09 04:49:41.496953
+aaa5ddaf-4d19-4138-be8b-6184723ce7c8,user_933,Searched for similar products,Festive_Sale,2025-12-09 05:34:41.496953
+7c715f11-b349-469e-a8d7-e2e7c6946f9b,user_933,Browsed category page,New_User_Welcome,2025-12-09 05:49:41.496953
+b1741e3c-360d-4eac-ab2b-b61c609e200f,user_102,,,2025-12-09 05:56:41.495796
+1e218e6a-7b33-4429-809f-9b6087d31c6c,user_16,Asking about subscription plans,,2025-12-09 06:13:41.495665
+2f3b3d33-631d-4399-ad39-1d67935affbf,user_845,Feedback on recent campaign,Seasonal_Promo,2025-12-09 13:25:41.496843
+9a2d794f-e99e-46d6-b4da-2b33455d33c3,user_192,Requesting personalized recommendations,Product_Recommendation,2025-12-09 13:32:41.495946
+22ab2451-e266-4dac-9cac-cc84537bd5d6,user_780,,,2025-12-09 13:46:41.496753
+4ed0d2da-9222-40e3-abd8-2697568f7073,user_644,Need support with recent purchase,New_User_Welcome,2025-12-09 14:40:41.496565
+6a8b3402-ac0d-4cc2-90ca-23000ba5dc96,user_664,Need support with recent purchase,New_User_Welcome,2025-12-09 15:02:41.496589
+55d5b89e-1515-4032-8bbb-639062c51997,user_702,Feedback on recent campaign,Festive_Sale,2025-12-09 18:26:41.496638
+756f9ae8-fc7c-4c5b-bdb3-36c43cdd0bda,user_496,Requesting personalized recommendations,Product_Recommendation,2025-12-09 20:24:41.496358
+0cda5048-0c6c-4b94-b567-fa1e8f97b445,user_77,Interested in new product updates,Festive_Sale,2025-12-09 22:01:41.495762
+468a5d97-a5db-4039-a59b-b64f45ca9d87,user_717,Asking about subscription plans,,2025-12-10 01:20:41.496656
+63b80851-89ab-4d98-b0fe-dacfe45ab1d7,user_988,Need support with recent purchase,,2025-12-10 01:27:41.497062
+dafb6b32-67f8-4c93-b95e-b57ad25a4166,user_410,Exploring premium features,New_User_Welcome,2025-12-10 06:18:41.496242
+240d2715-2514-4723-8bd8-06e239479d6f,user_170,Exploring premium features,New_User_Welcome,2025-12-10 06:53:41.495909
+05deb556-9606-48db-863f-3e1c73be665c,user_880,Interested in new product updates,Festive_Sale,2025-12-10 07:14:41.496888
+a46eb08f-3a6f-4ba2-8035-dfe4c48e7bdc,user_49,Feedback on recent campaign,New_User_Welcome,2025-12-10 07:30:41.495727
+3a368cac-6267-4f0c-8fd2-f928af98528d,user_35,,,2025-12-10 07:45:41.495693
+666bcf14-f24a-4ca1-a425-22b2fc5b3133,user_222,Need support with recent purchase,,2025-12-10 08:02:41.495987
+623a7e58-c215-4d3b-a312-c6bbb94fc4ff,user_616,Need support with recent purchase,Seasonal_Promo,2025-12-10 08:23:41.496526
+1729eef9-3e6a-4ece-b595-700037787913,user_136,Feedback on recent campaign,Seasonal_Promo,2025-12-10 10:12:41.495840
+d6e6d64e-968f-442d-a7a0-e40b168e89c9,user_472,Interested in new product updates,Festive_Sale,2025-12-10 10:40:41.496326
+fc85012b-d709-46ef-818e-c6cd735ddd6c,user_778,Exploring premium features,Festive_Sale,2025-12-10 11:06:41.496749
+dce85922-4b72-458a-ad4d-8b28a9456b79,user_94,Asking about subscription plans,Seasonal_Promo,2025-12-10 12:31:41.495785
+b8b4019b-eab9-42ad-a33e-2fc37beda3a9,user_714,,,2025-12-10 14:23:41.496653
+319dbe7a-633c-42fe-83f9-9cf2f52d9095,user_10,Requesting personalized recommendations,Product_Recommendation,2025-12-10 18:58:41.495656
+b00b2577-e09b-4e84-abd8-403b088bf307,user_689,Interested in new product updates,Festive_Sale,2025-12-10 19:48:41.496620
+bc42eee6-45b3-400d-b987-0a4e68423d49,user_60,Just browsing offers,Seasonal_Promo,2025-12-10 21:25:41.495740
+f5b2b2f2-b21f-4793-993e-4a64a2526ef4,user_757,Looking for discounts,Seasonal_Promo,2025-12-10 21:50:41.496720
+ac10c772-d435-4c5c-88e2-84ff191226be,user_152,Just browsing offers,Festive_Sale,2025-12-10 23:34:41.495861
+f780cbe8-f8d8-4339-86e2-ebd62e0348ba,user_725,Need support with recent purchase,New_User_Welcome,2025-12-10 23:56:41.496666
+34c6fce2-d1b8-45b6-b25a-70708a43c705,user_502,,,2025-12-11 01:24:41.496366
+77881d89-5af1-41fe-8ab1-f18e2f01f43a,user_3,Feedback on recent campaign,Seasonal_Promo,2025-12-11 01:26:41.495629
+0ed5d4a4-6a2b-4827-82aa-d852d13e039c,user_141,Need support with recent purchase,,2025-12-11 02:41:41.495846
+e1f83516-7cca-4fe6-bd91-3b24c905aaac,user_68,Requesting personalized recommendations,Product_Recommendation,2025-12-11 03:00:41.495750
+c47b6e5f-3fb3-4ab3-ba3e-1fffae717733,user_210,Just browsing offers,Festive_Sale,2025-12-11 03:15:41.495970
+b76e8a77-e753-46aa-bb86-aa7b257d0e57,user_121,,,2025-12-11 05:58:41.495820
+1202f4e7-b550-4baa-a539-29d985e195e3,user_52,Feedback on recent campaign,,2025-12-11 08:19:41.495730
+2be0627e-847f-4701-87e4-74ad4e0ea1eb,user_678,,,2025-12-11 10:26:41.496606
+82542848-05e1-44d5-8480-36a24d0084ce,user_570,Exploring premium features,New_User_Welcome,2025-12-11 14:06:41.496468
+98960828-44e1-4199-b830-4790b8a6d590,user_426,Asking about subscription plans,,2025-12-11 16:32:41.496264
+d3a90f11-0586-4442-b37e-d2300dea6ee2,user_919,Requesting personalized recommendations,Product_Recommendation,2025-12-11 16:44:41.496936
+b7415815-5a6d-43be-a6a2-53f83b085599,user_499,Requesting personalized recommendations,Product_Recommendation,2025-12-11 16:49:41.496362
+c118284d-ff34-4a73-b1b6-e3e85183f3e1,user_86,Requesting personalized recommendations,Product_Recommendation,2025-12-11 19:49:41.495774
+17d41f40-c34c-4984-8bbb-c5859ddcfba0,user_132,Interested in new product updates,,2025-12-11 20:09:41.495835
+d4a6d676-898b-4007-b488-fae8741449fa,user_464,Looking for discounts,Seasonal_Promo,2025-12-11 20:10:41.496315
+c3daceb0-e9bd-4820-a78f-9dc6f10eeda0,user_350,,,2025-12-11 20:19:41.496160
+b994d83a-c2cd-48c5-be6f-2d195185bf0e,user_736,Asking about subscription plans,New_User_Welcome,2025-12-11 21:27:41.496680
+6bfb5cb3-35fb-4301-b2b1-4e2ef8cedf0e,user_377,Interested in new product updates,,2025-12-11 23:59:41.496197
+92e3f95b-73fa-41b3-b7e1-e4289dedcc90,user_183,Requesting personalized recommendations,Product_Recommendation,2025-12-12 01:43:41.495934
+59512d3d-d8b2-4aad-82a6-38fde0465c53,user_624,Feedback on recent campaign,New_User_Welcome,2025-12-12 03:07:41.496539
+fd109762-69af-451f-afd5-1b93b18c7672,user_638,Interested in new product updates,New_User_Welcome,2025-12-12 06:16:41.496557
+f13b009e-e73d-46b7-ac7b-95e4a3212478,user_943,Requesting personalized recommendations,Product_Recommendation,2025-12-12 07:00:41.496967
+ab6f137c-7549-4f4f-9b1e-e50840ca1845,user_100,Asking about subscription plans,Seasonal_Promo,2025-12-12 07:51:41.495793
+24118067-ec5d-4d53-a6a5-6be7f63cea26,user_229,Need support with recent purchase,New_User_Welcome,2025-12-12 07:54:41.495997
+38e81de7-ab84-48c3-9806-3e9245f73929,user_144,Requesting personalized recommendations,Product_Recommendation,2025-12-12 08:05:41.495850
+6dc58382-5195-4e25-921a-5ab3d6f49cd2,user_943,Searched for similar products,New_User_Welcome,2025-12-12 08:32:41.496967
+c0cb1b5a-1ca1-4d2f-90c4-938c5fb6673f,user_1000,Interested in new product updates,New_User_Welcome,2025-12-12 09:24:41.497078
+111d7837-191d-4cac-9aa4-ddf23ea3d093,user_932,Exploring premium features,Seasonal_Promo,2025-12-12 14:44:41.496952
+e95e5726-6501-4d30-9e7f-15861392b5f0,user_551,Interested in new product updates,Seasonal_Promo,2025-12-12 18:16:41.496444
+1c56e201-df15-4941-99d0-77f32be28e7b,user_947,,,2025-12-12 20:05:41.496977
+5eb2e09f-4de3-46ba-9506-02aecbf019db,user_273,Requesting personalized recommendations,Product_Recommendation,2025-12-12 21:31:41.496056
+0960397a-2eb1-4951-b0af-9eb21b1662b4,user_848,Exploring premium features,Festive_Sale,2025-12-13 00:11:41.496846
+f3eadc89-0f7b-4340-964d-176a4cf3d594,user_652,Looking for discounts,Seasonal_Promo,2025-12-13 02:22:41.496574
+3137039d-e187-4c39-883b-c886925e64de,user_652,Searched for similar products,Seasonal_Promo,2025-12-13 04:04:41.496574
+e54d5fd7-2717-4b83-9df9-74d43d9d11ac,user_652,Clicked on product recommendation,Product_Recommendation,2025-12-13 05:02:41.496574
+87c474b7-fa07-4e16-960c-f7a159b89fe6,user_292,,,2025-12-13 06:42:41.496083
+51ed36b0-4873-4249-83ce-f531d97ea50c,user_977,Feedback on recent campaign,Seasonal_Promo,2025-12-13 06:43:41.497048
+9785484e-66c5-4deb-8c03-38ff10b17ba9,user_328,Asking about subscription plans,Seasonal_Promo,2025-12-13 07:06:41.496131
+af38d924-f398-4584-8ace-db42d9f80144,user_328,Searched for similar products,New_User_Welcome,2025-12-13 08:21:41.496131
+07813864-346c-4a08-a83d-ca821fc5febf,user_99,Looking for discounts,New_User_Welcome,2025-12-13 09:36:41.495792
+4515c2d3-b2d5-4dc5-8c2e-11c4ecf1fb31,user_274,Asking about subscription plans,,2025-12-13 12:58:41.496057
+23f95ee7-dba8-44a8-bc70-f7cb0560082f,user_734,Interested in new product updates,Seasonal_Promo,2025-12-13 19:26:41.496678
+434d4a7a-229b-4092-8fc5-58d320fe7eef,user_401,Need support with recent purchase,,2025-12-13 21:33:41.496230
+7a0f682e-a510-4704-b22f-2d17bd77caab,user_131,Exploring premium features,Seasonal_Promo,2025-12-13 22:19:41.495834
+20a5dd40-f482-4cd7-8214-0dc805be74c8,user_993,Requesting personalized recommendations,,2025-12-13 23:16:41.497069
+bfa51237-7b20-4854-b0e0-734aef336f0c,user_592,Requesting personalized recommendations,Product_Recommendation,2025-12-14 01:33:41.496495
+19294536-3e6a-4a1d-9449-f0964b474de3,user_923,Need support with recent purchase,Festive_Sale,2025-12-14 02:22:41.496941
+98cab4ce-8e1a-482b-a5ba-de4a194637c1,user_592,,,2025-12-14 03:44:41.496495
+1dfedf89-ebd1-4822-9782-18a7756f83e6,user_283,Need support with recent purchase,Seasonal_Promo,2025-12-14 04:52:41.496070
+3898e528-ea4c-4e68-a80b-fef7c3d396a9,user_90,Asking about subscription plans,New_User_Welcome,2025-12-14 05:01:41.495779
+e4b7870d-cf99-41b8-be91-1d17c270b2e1,user_700,Exploring premium features,New_User_Welcome,2025-12-14 07:29:41.496634
+24073b4f-1c60-4cae-9575-952227b5ae17,user_998,Asking about subscription plans,New_User_Welcome,2025-12-14 08:29:41.497075
+04b146d0-9441-4f2e-9039-38ac1d432e0d,user_298,Just browsing offers,,2025-12-14 08:38:41.496091
+1d74b91d-ee5b-430e-9471-c9b2edb79900,user_180,Need support with recent purchase,Festive_Sale,2025-12-14 08:54:41.495930
+548fd5f8-d9bd-400c-a72b-ab8f4e233e3f,user_75,Interested in new product updates,Festive_Sale,2025-12-14 13:49:41.495760
+a0b85ce8-9c60-4602-ae8c-c29aaa069ccc,user_254,Just browsing offers,Festive_Sale,2025-12-14 14:00:41.496030
+8069db4b-f256-409c-9f6d-7f9584d430d6,user_174,Feedback on recent campaign,Festive_Sale,2025-12-14 15:47:41.495921
+1dc3ce9c-050c-4b01-986a-e498225861dc,user_901,Need support with recent purchase,New_User_Welcome,2025-12-14 18:37:41.496914
+a65d2559-d6af-432f-8b17-b7219f8152af,user_403,Need support with recent purchase,Seasonal_Promo,2025-12-14 19:41:41.496233
+fa4f6235-4a27-45b6-8a28-798548c442e1,user_325,Just browsing offers,New_User_Welcome,2025-12-14 22:13:41.496127
+8c697d51-e539-49a1-94e8-364680fac85f,user_763,,,2025-12-15 01:24:41.496729
+577704cb-8aa8-407b-9014-c71ac3ce371b,user_154,Feedback on recent campaign,Festive_Sale,2025-12-15 02:54:41.495864
+080322f9-de2c-4eec-9e1e-aef9e62a0213,user_769,Looking for discounts,New_User_Welcome,2025-12-15 04:02:41.496737
+3e7b4585-01a3-4c3f-a81f-c265ddf07767,user_154,Searched for similar products,Seasonal_Promo,2025-12-15 04:34:41.495864
+adc7fe4b-e912-41b5-a2ae-b3218d8eda8e,user_127,Just browsing offers,New_User_Welcome,2025-12-15 05:14:41.495828
+faf19484-a847-490a-9d26-03a888d9b8a5,user_363,Need support with recent purchase,New_User_Welcome,2025-12-15 05:28:41.496179
+09e273d8-62d4-40fd-a232-aff3dbf01da2,user_154,Clicked on product recommendation,Product_Recommendation,2025-12-15 06:18:41.495864
+3358501f-44bc-4e5c-bb1c-bf53942ff380,user_346,Requesting personalized recommendations,Product_Recommendation,2025-12-15 06:57:41.496155
+993ef7fd-39a6-471f-bdb2-891048134efa,user_911,Interested in new product updates,Seasonal_Promo,2025-12-15 07:19:41.496926
+1dbb8408-3ecb-4e17-869d-12caed8ab196,user_346,Clicked on product recommendation,,2025-12-15 07:22:41.496155
+93c770b1-c5bb-4320-bacf-10156e677ade,user_833,Exploring premium features,,2025-12-15 07:42:41.496827
+ef30e53d-bdd1-4f83-98a4-715b1c3d0703,user_346,Browsed category page,New_User_Welcome,2025-12-15 08:07:41.496155
+33c16b61-fe7a-47e2-bc8a-154b2ed5f141,user_346,Returned to app after notification,Reengagement_Push,2025-12-15 09:02:41.496155
+0d2aebb9-fc00-4a22-8394-6129cea11784,user_346,Clicked on product recommendation,Product_Recommendation,2025-12-15 09:06:41.496155
+b25e0bf3-006c-40a7-adcb-53dda0efe527,user_9,Requesting personalized recommendations,,2025-12-15 09:28:41.495648
+00056037-2b15-4566-8e29-8fe0e6e63457,user_133,Asking about subscription plans,Festive_Sale,2025-12-15 10:55:41.495836
+aa9d9c9d-ae63-4837-9de1-8a43fb95b7f9,user_269,Asking about subscription plans,New_User_Welcome,2025-12-15 11:10:41.496051
+08155577-48dc-40d1-b0cc-cc43c70e0e88,user_261,Exploring premium features,Festive_Sale,2025-12-15 14:21:41.496040
+2ee27b1b-0b14-4684-80fa-c797257ca33e,user_670,Need support with recent purchase,Festive_Sale,2025-12-15 15:29:41.496596
+ff1794d2-45d4-4338-b001-9e8307ab0dae,user_675,Asking about subscription plans,Festive_Sale,2025-12-15 16:23:41.496602
+9a450622-d4ba-4540-b3f8-ae6dcf2fcde1,user_420,Need support with recent purchase,Seasonal_Promo,2025-12-15 17:13:41.496256
+e10f2c37-44ea-4ae9-abc4-74254f227127,user_881,Looking for discounts,,2025-12-15 18:59:41.496889
+4a20bade-ff9c-4e70-96c6-a177e17b9802,user_981,Feedback on recent campaign,,2025-12-15 19:03:41.497053
+102025dd-44ff-4be9-8137-0f1cd92baa70,user_24,Looking for discounts,Seasonal_Promo,2025-12-15 19:37:41.495677
+bf51a841-3523-4fb2-87df-47fcac2d75ec,user_695,Asking about subscription plans,Festive_Sale,2025-12-15 22:17:41.496627
+c4fe9149-16b2-40a7-85b6-99272a10997f,user_642,Need support with recent purchase,Seasonal_Promo,2025-12-16 01:15:41.496562
+1639535e-85d5-4f37-9815-739607081ad2,user_171,Need support with recent purchase,Festive_Sale,2025-12-16 01:20:41.495911
+fc792502-2231-41a6-8425-a78f48fd8c49,user_553,,,2025-12-16 01:25:41.496446
+36fcd8b3-024f-4cb4-b016-a7ea614efabb,user_83,Interested in new product updates,,2025-12-16 02:42:41.495770
+a4b5a6da-a8d2-41b2-980d-d57810d4824d,user_607,Just browsing offers,,2025-12-16 02:46:41.496515
+1b43ff09-be7f-490c-8eb4-d3419c307523,user_490,Requesting personalized recommendations,,2025-12-16 04:15:41.496350
+a9df2530-9aad-40f4-b71d-8b46e5e24fd0,user_841,Asking about subscription plans,New_User_Welcome,2025-12-16 04:17:41.496838
+aaaabc2e-b8a9-4a1c-a48d-1cafc1528d2d,user_876,Asking about subscription plans,New_User_Welcome,2025-12-16 04:47:41.496883
+265369ad-9f2c-448f-91e4-7de2d397a632,user_876,Searched for similar products,New_User_Welcome,2025-12-16 04:58:41.496883
+c53d1b80-319c-4126-8628-188da625bcf0,user_490,,,2025-12-16 07:37:41.496350
+38ff26c3-3c59-4d54-bc77-501c955c9e48,user_490,Viewed cart but did not checkout,Abandoned_Cart_Reminder,2025-12-16 07:56:41.496350
+c8feba8c-0d31-4316-9448-fdefc95de440,user_209,Exploring premium features,Festive_Sale,2025-12-16 08:06:41.495969
+eb16ef55-43de-4dc8-b562-5c1ce9ffae7c,user_876,Viewed cart but did not checkout,Abandoned_Cart_Reminder,2025-12-16 08:13:41.496883
+758c6f35-c1f9-4326-82c7-0fd9ba32632f,user_305,Feedback on recent campaign,Festive_Sale,2025-12-16 09:15:41.496100
+3262a2de-ab41-45fb-8a21-e8858cd029d6,user_758,Asking about subscription plans,Festive_Sale,2025-12-16 10:51:41.496721
+d49b1cf1-d034-4147-a216-286ba0ec018d,user_8,Looking for discounts,New_User_Welcome,2025-12-16 16:27:41.495641
+d6054e13-ed0a-4e61-aecf-f05787a1d566,user_814,Requesting personalized recommendations,Product_Recommendation,2025-12-16 16:47:41.496804
+842d6fbf-4471-48bb-aa0c-1322ceab2d3c,user_954,Feedback on recent campaign,,2025-12-16 17:17:41.496992
+67ceb770-3aaf-4246-99f9-d9ea0c24f185,user_67,Just browsing offers,Seasonal_Promo,2025-12-16 19:41:41.495749
+f01b4334-8141-476c-806e-0bef84f936b9,user_760,Requesting personalized recommendations,Product_Recommendation,2025-12-16 22:37:41.496724
+65215967-5e73-4bdd-b69a-c06037c4e6fe,user_830,Just browsing offers,Seasonal_Promo,2025-12-16 22:55:41.496824
+02549b99-cacc-41cf-9163-0e38e2e1c44a,user_400,Exploring premium features,Seasonal_Promo,2025-12-17 00:40:41.496228
+0c0cd521-dcbe-4584-a384-092c349bbf21,user_830,,,2025-12-17 01:12:41.496824
+23533e25-835c-4dca-ba04-027961acd489,user_672,Looking for discounts,Festive_Sale,2025-12-17 01:17:41.496599
+09006599-6474-467e-9376-15c1bb5ab2be,user_511,Asking about subscription plans,Festive_Sale,2025-12-17 03:47:41.496381
+fc8ace47-b2b6-49cd-95cf-a0cb0457e481,user_227,Feedback on recent campaign,,2025-12-17 04:35:41.495994
+a524b8f0-6a1f-43c0-9175-fb4e07fedce9,user_650,Asking about subscription plans,Festive_Sale,2025-12-17 05:11:41.496572
+f36e630e-f12f-492f-80d1-228fcac012dc,user_342,Interested in new product updates,New_User_Welcome,2025-12-17 07:38:41.496149
+3e098b0c-9de5-4e3c-9d40-29edf168ff69,user_522,Need support with recent purchase,New_User_Welcome,2025-12-17 07:59:41.496407
+a7e32441-58d1-443f-bde2-6aa01dc0656f,user_411,Feedback on recent campaign,New_User_Welcome,2025-12-17 08:27:41.496244
+8e973e12-571e-42fc-a950-2873f0e0e15f,user_970,Requesting personalized recommendations,Product_Recommendation,2025-12-17 08:37:41.497033
+bbc8bb39-43cf-4ab9-a3d6-d648e59f16a4,user_907,Requesting personalized recommendations,Product_Recommendation,2025-12-17 09:21:41.496921
+a51f6cca-be14-435e-a9ff-69bcbdbce5d0,user_446,Asking about subscription plans,,2025-12-17 12:15:41.496291
+4496c50e-7068-4771-9923-515f7a454204,user_580,Need support with recent purchase,New_User_Welcome,2025-12-17 13:35:41.496480
+ee54402d-bd7f-43ba-a5d5-1d44aa347d13,user_446,Searched for similar products,,2025-12-17 13:49:41.496291
+298dd578-4bf1-4c03-b49c-5eff2696106a,user_831,Requesting personalized recommendations,Product_Recommendation,2025-12-17 13:59:41.496825
+d618eeba-0dad-4ccb-8e53-b954d68ca210,user_446,Opened promotional email,Festive_Sale,2025-12-17 15:01:41.496291
+5ec2140d-a662-4aa8-907d-a6e747a86ce1,user_446,Searched for similar products,Festive_Sale,2025-12-17 15:35:41.496291
+cc5838b9-7270-4af5-9e61-653423e72f88,user_105,Interested in new product updates,Festive_Sale,2025-12-17 16:00:41.495800
+14256217-f21b-4f93-af92-b1e8daf47c27,user_72,,,2025-12-17 19:27:41.495755
+34c9402c-e2d0-434b-8124-83233fbc35b8,user_412,Just browsing offers,New_User_Welcome,2025-12-17 20:01:41.496245
+eca8f9cc-c825-4286-87ce-a11a217f1eee,user_753,,,2025-12-17 20:40:41.496706
+51e38830-6754-4ece-b5b3-919b1919b7b6,user_633,Looking for discounts,New_User_Welcome,2025-12-17 23:32:41.496551
+6f672c4c-0588-4078-87c5-c42081c55d65,user_106,Looking for discounts,New_User_Welcome,2025-12-18 00:03:41.495801
+a5882793-e579-421e-8e1a-85a057713e59,user_323,Feedback on recent campaign,Seasonal_Promo,2025-12-18 01:32:41.496125
+f7e77265-2f81-4a46-b770-ab93c74f0852,user_374,Interested in new product updates,Festive_Sale,2025-12-18 01:36:41.496193
+bf68ca9c-1f8a-4cea-aca7-1611be033554,user_126,Just browsing offers,Seasonal_Promo,2025-12-18 04:00:41.495827
+4c230d5e-290e-4ade-b0c6-cfc74432f9f6,user_722,Feedback on recent campaign,Seasonal_Promo,2025-12-18 07:10:41.496662
+510297fb-170c-44f7-b69b-559c612938fe,user_418,Interested in new product updates,,2025-12-18 10:12:41.496253
+ffb7941e-d0c7-4ecf-8c2a-5c3ff9a08a34,user_629,Looking for discounts,,2025-12-18 11:20:41.496546
+722fee5a-27c1-49c1-b1cb-ddf6517ccde9,user_754,Feedback on recent campaign,Festive_Sale,2025-12-18 11:32:41.496709
+23571bc7-923e-4a54-adc5-6ec4cba9a0ec,user_373,Exploring premium features,,2025-12-18 12:59:41.496192
+9bd82ed8-99fb-4fde-9905-04cb5db1566c,user_742,,,2025-12-18 13:16:41.496687
+39d778d8-ad26-44d1-a8b7-516801d2aa6b,user_891,Requesting personalized recommendations,Product_Recommendation,2025-12-18 13:35:41.496902
+d2506f72-22d1-488e-807c-04367a545643,user_754,,,2025-12-18 13:47:41.496709
+ed1077d0-4663-4628-b8a7-ffe4cb684ea9,user_891,,,2025-12-18 14:39:41.496902
+03e02197-d82d-468d-9718-9bc23dcd5bfc,user_891,Returned to app after notification,,2025-12-18 16:34:41.496902
+21796d3b-63a7-43c9-b0dc-72ec161f8903,user_463,Requesting personalized recommendations,Product_Recommendation,2025-12-18 17:03:41.496314
+a25bdcec-a470-4962-9234-a1542631219c,user_238,Requesting personalized recommendations,Product_Recommendation,2025-12-18 18:54:41.496009
+a0ef6cf8-75ce-4796-b491-7f0441dccd66,user_238,,,2025-12-18 21:49:41.496009
+02b7b2b1-75d5-41ea-8374-10f6d4e1cb9c,user_211,Requesting personalized recommendations,Product_Recommendation,2025-12-18 22:16:41.495972
+0035f1e8-54cc-47bf-9fb0-c03c0bdb28f7,user_703,Just browsing offers,New_User_Welcome,2025-12-18 22:25:41.496639
+bebbd312-e3b8-4ad7-89bd-24e2f933c9bb,user_697,Asking about subscription plans,Festive_Sale,2025-12-19 00:37:41.496630
+f7d5a75d-a354-4a18-8277-6cef7f9753c1,user_208,Looking for discounts,,2025-12-19 01:03:41.495968
+94f32f63-96b6-4f8c-95db-bf916376f3a6,user_766,,,2025-12-19 02:50:41.496733
+b2e8d6da-047b-474f-b7c7-63a595076d2a,user_926,Looking for discounts,Seasonal_Promo,2025-12-19 03:05:41.496944
+d42e22a4-698b-42fb-8a3b-16bd343a1fcb,user_338,Need support with recent purchase,,2025-12-19 04:44:41.496144
+0bfc15fe-9569-445a-a4ba-bd0dcc0d0d00,user_188,Requesting personalized recommendations,Product_Recommendation,2025-12-19 06:56:41.495941
+12c3c587-cdd1-457a-9cb4-9a62dbdd462e,user_155,Need support with recent purchase,New_User_Welcome,2025-12-19 08:20:41.495865
+c6dd9e22-03e9-4bbe-b169-68b00872f6e7,user_191,,,2025-12-19 08:25:41.495945
+9571b427-8d2c-47c0-ab43-565ad64cd241,user_28,Just browsing offers,Festive_Sale,2025-12-19 08:43:41.495682
+6be87660-c980-4119-ad22-3823536678b1,user_924,Just browsing offers,Seasonal_Promo,2025-12-19 10:43:41.496942
+53c220dd-63d4-489e-b829-0917497cac30,user_649,Requesting personalized recommendations,Product_Recommendation,2025-12-19 21:07:41.496571
+f482be82-5de4-429d-843f-d5becb7aa5f9,user_879,,,2025-12-19 21:41:41.496887
+e86acc47-9066-4299-a77a-13f88bd49009,user_879,Added item to wishlist,Wishlist_Nudge,2025-12-19 22:49:41.496887
+990acafe-7d8e-4c95-876e-d6f1c7a8fcb0,user_14,Looking for discounts,New_User_Welcome,2025-12-19 22:50:41.495663
+07a45663-2de0-4ee7-a48e-196afd42384f,user_879,Opened promotional email,Festive_Sale,2025-12-19 22:59:41.496887
+18e5e21f-3e08-4cf2-ae2e-e49d8eda6361,user_879,Searched for similar products,Seasonal_Promo,2025-12-19 23:16:41.496887
+21e83ee8-21a0-49d2-a7a3-1114c06c3de2,user_583,,,2025-12-19 23:44:41.496484
+d3a65dae-c604-433b-b208-548c303c784f,user_627,Looking for discounts,Seasonal_Promo,2025-12-20 00:16:41.496543
+21262eec-7142-421c-8842-6a67005c93ba,user_879,Clicked on product recommendation,Product_Recommendation,2025-12-20 01:12:41.496887
+81b8162a-93ff-41a1-b05a-74590c2ea364,user_63,Interested in new product updates,New_User_Welcome,2025-12-20 02:33:41.495744
+f8e047e7-97da-46ba-a0e9-edf9712424fa,user_149,,,2025-12-20 06:47:41.495857
+eb11bd51-29dc-4915-a01f-9ab7dcf8cd24,user_505,Looking for discounts,Festive_Sale,2025-12-20 07:33:41.496370
+10573a78-2bde-47fa-9f7d-1d16ec8a6100,user_486,Need support with recent purchase,Festive_Sale,2025-12-20 07:48:41.496345
+bcaa1895-a623-4654-a623-02eb9e250d83,user_945,Just browsing offers,Seasonal_Promo,2025-12-20 08:44:41.496972
+df295691-abf6-4bd4-970c-fecb03485bfe,user_435,Feedback on recent campaign,Festive_Sale,2025-12-20 08:46:41.496276
+89984393-af59-45cb-8c19-8266791533c1,user_359,,,2025-12-20 13:02:41.496173
+fc2c30a1-deb4-4146-a8e0-6a6037efc25a,user_203,Requesting personalized recommendations,Product_Recommendation,2025-12-20 13:06:41.495961
+3c9884a2-5427-4fe8-83f4-7154a8394b54,user_359,,,2025-12-20 13:30:41.496173
+2d62ae32-a4fa-4351-838f-cb9ffc9b5671,user_869,Asking about subscription plans,Seasonal_Promo,2025-12-20 13:32:41.496874
+81846017-56ff-4f79-9c6d-0d2df97885ac,user_359,,,2025-12-20 14:01:41.496173
+97986a4a-7cd0-4384-9dff-e90b644949f6,user_359,Clicked on product recommendation,Product_Recommendation,2025-12-20 16:56:41.496173
+eb2411c9-8aff-4a42-a9e4-7f9c16075a9f,user_761,Asking about subscription plans,New_User_Welcome,2025-12-20 17:29:41.496725
+d27dec8c-ec28-4494-a784-7b52543688f1,user_948,Asking about subscription plans,New_User_Welcome,2025-12-20 20:36:41.496979
+dd839019-1e7a-432d-9cac-78d78a71c8c2,user_793,Interested in new product updates,New_User_Welcome,2025-12-20 22:27:41.496777
+713d08a3-99d9-456f-9484-512a7e174033,user_515,Interested in new product updates,Festive_Sale,2025-12-20 23:46:41.496390
+d43cb896-0298-40b2-ab06-6128b7b8fd33,user_930,Exploring premium features,Festive_Sale,2025-12-21 00:05:41.496949
+30c35961-46a2-4926-bc08-007b4cf0b94f,user_726,Requesting personalized recommendations,Product_Recommendation,2025-12-21 00:38:41.496667
+e21c2242-ad8d-4111-8672-94a235fb291e,user_643,Need support with recent purchase,Festive_Sale,2025-12-21 03:19:41.496564
+25b9dbc8-88d2-4ada-b956-e513c6358b15,user_577,Asking about subscription plans,Festive_Sale,2025-12-21 06:37:41.496477
+f594ebd5-0c4b-4b28-b28a-2d4b14795178,user_392,Interested in new product updates,Festive_Sale,2025-12-21 09:07:41.496218
+2fd8397e-0f80-4437-bd95-8e588b4b15bc,user_445,Need support with recent purchase,,2025-12-21 10:12:41.496289
+cfffc5a8-f0b7-4935-93e1-836f12998ff0,user_737,Need support with recent purchase,Seasonal_Promo,2025-12-21 10:45:41.496681
+3faddd2f-77a1-469b-82c0-e27e648e3eb0,user_899,Requesting personalized recommendations,Product_Recommendation,2025-12-21 11:39:41.496911
+2e70e13a-1c23-4e08-9448-83bafe5c33ec,user_445,Searched for similar products,Seasonal_Promo,2025-12-21 12:39:41.496289
+3a108449-3c24-43ca-968b-804a4f1d29a6,user_315,,,2025-12-21 13:27:41.496114
+5707a198-f01f-4d94-8d60-616fd4fc0e8d,user_393,Asking about subscription plans,New_User_Welcome,2025-12-21 15:25:41.496219
+088ced70-0649-44c3-9424-a95563d66e9b,user_559,Exploring premium features,Seasonal_Promo,2025-12-21 16:06:41.496454
+0bff9ae3-c290-413b-a952-f2a68da4f464,user_543,Just browsing offers,Festive_Sale,2025-12-21 18:49:41.496434
+cf9efa91-3cef-4fee-9728-a7dcc6852526,user_434,Just browsing offers,,2025-12-21 20:18:41.496275
+4082e1fb-562b-4222-a272-ea6f80b3750e,user_656,Interested in new product updates,New_User_Welcome,2025-12-21 20:50:41.496579
+9ba058c9-86f0-4d60-8ee0-a0ded54ad1bb,user_552,,,2025-12-21 21:14:41.496445
+65269229-808a-4cbb-b7f6-96923b1d6005,user_782,Requesting personalized recommendations,Product_Recommendation,2025-12-21 21:15:41.496757
+a6d207a4-6f15-4a66-b062-8a8aed2843a4,user_252,Requesting personalized recommendations,Product_Recommendation,2025-12-21 22:33:41.496028
+7f4a6cdf-17dd-47db-8721-0a962466c041,user_605,Interested in new product updates,Festive_Sale,2025-12-21 23:02:41.496512
+7a9ab224-5414-4f8a-8341-399d8a3db6b5,user_782,Returned to app after notification,Reengagement_Push,2025-12-21 23:13:41.496757
+73209b0a-30d3-40d1-bea9-a89d9241e2ed,user_982,Need support with recent purchase,Festive_Sale,2025-12-22 02:05:41.497054
+647a5849-fdc6-4af3-b4d5-1b393d0ff98c,user_432,Interested in new product updates,,2025-12-22 03:20:41.496272
+4f541b30-070f-4d8e-b732-992c81132779,user_572,Exploring premium features,Festive_Sale,2025-12-22 04:18:41.496470
+b1291069-2830-4a3b-950d-45d83a093052,user_474,,,2025-12-22 04:57:41.496329
+d2ca66e5-be72-4f08-86ee-4c21fcbc99af,user_488,Asking about subscription plans,Festive_Sale,2025-12-22 07:23:41.496348
+2075c578-7a08-4690-9ddc-9bac42ad5d3b,user_772,Need support with recent purchase,Seasonal_Promo,2025-12-22 08:20:41.496741
+fcf5d652-19dc-4290-aa61-b587f577f294,user_968,Just browsing offers,New_User_Welcome,2025-12-22 09:19:41.497030
+4fb830f9-8885-4df1-8cac-4e8197fc1dd7,user_337,Need support with recent purchase,,2025-12-22 09:58:41.496143
+a14ea70a-e04d-417f-8ba4-9d88884ac57a,user_950,,,2025-12-22 10:49:41.496983
+5a61ab85-7208-4410-ae84-660b558bbc42,user_232,Need support with recent purchase,Festive_Sale,2025-12-22 11:32:41.496001
+acebdfc3-9a58-48a8-8f20-bb22fa5d6ab3,user_345,Looking for discounts,Seasonal_Promo,2025-12-22 13:35:41.496153
+0b74dc4a-6f36-422a-af1a-883bf5b35a7b,user_69,Feedback on recent campaign,,2025-12-22 14:30:41.495751
+8a61f284-3922-4964-8db5-51cc69fecf49,user_677,,,2025-12-22 21:32:41.496605
+1c663478-eebb-43af-9e3c-c78aae04b013,user_352,Asking about subscription plans,Seasonal_Promo,2025-12-22 22:34:41.496163
+1ff05187-3a08-4091-b19c-85a5e5c13bcf,user_419,Exploring premium features,New_User_Welcome,2025-12-22 22:41:41.496254
+89ee6b52-0105-4a5f-9945-ebfd7fa7e599,user_677,,,2025-12-23 00:13:41.496605
+d3229679-94ec-4528-93a0-424713c93a2c,user_787,Feedback on recent campaign,Festive_Sale,2025-12-23 00:22:41.496769
+332a5bcf-c924-4acc-b94b-1e6f360abda4,user_262,Asking about subscription plans,,2025-12-23 03:20:41.496042
+2dccd5ce-3329-428f-bb89-31d899091477,user_17,Interested in new product updates,,2025-12-23 03:30:41.495667
+207ff590-ef0f-4ad2-aa3e-a0464e4c90f0,user_621,Requesting personalized recommendations,Product_Recommendation,2025-12-23 03:48:41.496536
+bfc92fd8-58dd-4d75-b478-e65c8d1ae2dc,user_387,Just browsing offers,Festive_Sale,2025-12-23 03:57:41.496211
+fa8c6f09-c96b-44b8-97c8-445f8449f695,user_233,,,2025-12-23 04:58:41.496002
+4c205906-71db-4e3e-b9f8-ffac5b777fc6,user_603,Interested in new product updates,Festive_Sale,2025-12-23 11:02:41.496510
+8a3dc799-ea9c-4e48-937c-398d9c86bf59,user_676,Interested in new product updates,New_User_Welcome,2025-12-23 11:27:41.496604
+748c43a8-67a3-4750-84ff-9b9e549793ae,user_258,Asking about subscription plans,Seasonal_Promo,2025-12-23 15:50:41.496036
+60052364-2ba9-46e6-b69c-bd7db19f0f19,user_78,Interested in new product updates,,2025-12-23 18:07:41.495763
+159516d9-7a03-4a78-a1b4-bf867cd3c60b,user_690,Just browsing offers,Festive_Sale,2025-12-23 19:56:41.496621
+55151dc2-f2f1-419d-8c70-36ecd771f1a1,user_718,Need support with recent purchase,Festive_Sale,2025-12-23 21:39:41.496658
+71b906fe-c0c0-4ba9-b657-8db00bfd9cfb,user_965,Need support with recent purchase,New_User_Welcome,2025-12-23 21:42:41.497026
+80714202-866b-471d-b76f-594652cd6a41,user_47,Interested in new product updates,Festive_Sale,2025-12-23 22:01:41.495724
+53d670fa-25b4-4967-acc7-f6971a17e557,user_294,Just browsing offers,Festive_Sale,2025-12-23 23:11:41.496086
+d3ce997e-0bd5-4399-ba61-7e36ab26c509,user_976,Exploring premium features,Seasonal_Promo,2025-12-23 23:47:41.497046
+68bab139-b495-4493-9005-0eb465a7750a,user_279,Just browsing offers,,2025-12-24 00:53:41.496065
+969527fa-573f-41ad-8d83-72a5a1085bdf,user_791,Just browsing offers,Festive_Sale,2025-12-24 01:15:41.496775
+3cdaf56f-d129-4f9d-88d3-80dfadc74a66,user_406,Exploring premium features,New_User_Welcome,2025-12-24 01:27:41.496237
+e7d0a5e9-544f-42db-b419-6744b94b222f,user_802,,,2025-12-24 01:30:41.496788
+da0eeeac-5e6e-4497-b134-a548905793f5,user_415,Exploring premium features,Festive_Sale,2025-12-24 02:06:41.496249
+1d5ed52a-9f85-4aee-a494-2e641edd31ae,user_146,Interested in new product updates,New_User_Welcome,2025-12-24 03:29:41.495853
+b47359a9-af4d-4c41-ade9-ab922dedd07a,user_518,Interested in new product updates,Seasonal_Promo,2025-12-24 03:41:41.496397
+7e71a2fc-8402-4b25-8cf1-b6a75bf8cf96,user_729,Need support with recent purchase,New_User_Welcome,2025-12-24 05:12:41.496671
+c3e1b3c4-6bac-43a9-9ca9-077cd3cb2abc,user_710,Feedback on recent campaign,Seasonal_Promo,2025-12-24 06:58:41.496648
+dd49a688-3558-46ae-855a-15fca6a030e9,user_817,Looking for discounts,New_User_Welcome,2025-12-24 07:31:41.496807
+19b732d7-eca6-4a5d-9f25-0b618e964d7d,user_534,Need support with recent purchase,New_User_Welcome,2025-12-24 08:52:41.496423
+7f6d5d9f-aa3e-4fea-8d46-725cc3853c4f,user_534,Opened promotional email,Festive_Sale,2025-12-24 09:58:41.496423
+6e326ae6-3832-4079-96b8-7c376d9c81db,user_340,Exploring premium features,Seasonal_Promo,2025-12-24 14:13:41.496147
+82982305-8826-456a-af9b-6be97dd9d7e6,user_321,Feedback on recent campaign,New_User_Welcome,2025-12-24 15:05:41.496122
+fd151b57-43ff-41dc-8999-0e5868a1fc18,user_223,,,2025-12-24 17:24:41.495988
+49d84ee8-dbb4-4eb2-a060-bce2dbb9e87c,user_980,,,2025-12-24 20:50:41.497052
+39f35dea-897b-45a0-8964-2011c007850c,user_107,Feedback on recent campaign,Festive_Sale,2025-12-24 22:02:41.495802
+7e982b81-a6b7-48c9-bf7b-737592723136,user_602,Need support with recent purchase,New_User_Welcome,2025-12-24 22:43:41.496508
+490d74c5-7972-49db-800c-691d9be01693,user_991,Interested in new product updates,,2025-12-24 23:27:41.497066
+5335b494-8b9c-4df2-8429-09182529e13b,user_391,Looking for discounts,Festive_Sale,2025-12-25 00:26:41.496216
+a2e30d24-0c8a-48f2-ac54-3587d43c7013,user_748,Asking about subscription plans,Festive_Sale,2025-12-25 00:59:41.496695
+dcd364a4-1c1c-4fb4-a55e-7f3f8409317d,user_379,Asking about subscription plans,Festive_Sale,2025-12-25 03:03:41.496200
+064b8589-d48b-4d09-8380-8469f666dab2,user_87,Need support with recent purchase,Festive_Sale,2025-12-25 03:55:41.495775
+456be141-19f7-420d-8b82-62f53e4382cb,user_87,Searched for similar products,Seasonal_Promo,2025-12-25 04:55:41.495775
+cf96bf1d-edd8-4d7f-8403-487a841c4aeb,user_87,Clicked on product recommendation,,2025-12-25 05:17:41.495775
+690cd977-4576-4cb3-9eec-2174cbe0df8c,user_87,Opened promotional email,Festive_Sale,2025-12-25 05:24:41.495775
+e6df391e-1084-4adc-9708-d004d7ef600e,user_58,Exploring premium features,Seasonal_Promo,2025-12-25 06:52:41.495738
+88a111c0-1177-437a-9c92-e40127c2ecb7,user_87,,,2025-12-25 07:49:41.495775
+74dfc96e-3522-4d1a-9733-5357b6eb03c4,user_255,Requesting personalized recommendations,Product_Recommendation,2025-12-25 10:11:41.496032
+d534d2f1-4d1d-41b5-ab0b-6f0201efc789,user_282,Looking for discounts,Seasonal_Promo,2025-12-25 10:55:41.496069
+54767265-ca8e-46fa-bf25-741b8df88aa1,user_481,Requesting personalized recommendations,Product_Recommendation,2025-12-25 11:47:41.496338
+e7414d87-0ec8-45bc-af28-19c81941932d,user_860,Interested in new product updates,Festive_Sale,2025-12-25 11:56:41.496861
+66bda84b-b5f4-4e2c-9ba0-3d9a88fdb8a2,user_55,Exploring premium features,Festive_Sale,2025-12-25 13:50:41.495734
+47f95d50-a826-49cd-be69-38ea53bb50cb,user_481,Clicked on product recommendation,Product_Recommendation,2025-12-25 14:06:41.496338
+24415d91-2959-4551-bd76-63c7a7290bf7,user_898,Need support with recent purchase,Festive_Sale,2025-12-25 15:11:41.496910
+21f6c77b-4329-4491-8f5b-c49e2276acad,user_206,Asking about subscription plans,New_User_Welcome,2025-12-25 15:53:41.495965
+b5685301-4fd1-47a9-9928-2a7972bdd74c,user_589,,,2025-12-25 18:36:41.496491
+0cc91089-0eec-4c68-b98c-a78586a96472,user_666,Looking for discounts,New_User_Welcome,2025-12-25 20:44:41.496591
+a37f0f18-c2cf-4b95-910d-7e538f6f420b,user_786,Need support with recent purchase,New_User_Welcome,2025-12-25 21:45:41.496768
+5c49d93e-5cfb-411d-a879-24fbeca18513,user_523,Feedback on recent campaign,Festive_Sale,2025-12-25 23:27:41.496408
+9f5d94b2-a003-4161-b54c-8046303d7573,user_576,Just browsing offers,Festive_Sale,2025-12-26 01:53:41.496475
+052fcf50-d18e-4e0a-abba-7c35ad53eb50,user_444,Need support with recent purchase,Seasonal_Promo,2025-12-26 03:18:41.496288
+7d24a07e-56e5-49bf-a2ce-5e0954818a9d,user_853,Feedback on recent campaign,,2025-12-26 06:43:41.496853
+8a224ad1-fbf9-4f07-aa43-a0a398d6a1b2,user_889,Asking about subscription plans,,2025-12-26 10:32:41.496899
+281f84af-e38e-4078-bb51-ee18d5cd3210,user_299,Asking about subscription plans,Seasonal_Promo,2025-12-26 13:53:41.496092
+b7424c65-16c4-4830-af85-e81f50078eaf,user_798,Interested in new product updates,Seasonal_Promo,2025-12-26 15:08:41.496783
+cc529d06-f2ec-498a-a322-71c02d59e855,user_906,Exploring premium features,New_User_Welcome,2025-12-26 15:23:41.496920
+a174a11a-a86c-4ce7-b9fb-8ecc5743a161,user_797,Just browsing offers,,2025-12-26 15:43:41.496782
+c98aca1f-06fd-4463-904e-7ff00aeda53c,user_797,,,2025-12-26 16:20:41.496782
+ab96202c-22b6-433d-adc4-8ab8be82cbd6,user_797,Returned to app after notification,Reengagement_Push,2025-12-26 17:21:41.496782
+d4dbba41-d792-4821-b569-876265bb0b09,user_797,Searched for similar products,Festive_Sale,2025-12-26 17:22:41.496782
+3214ea90-65df-41ed-9596-6e05259f9f35,user_540,Need support with recent purchase,Festive_Sale,2025-12-26 19:44:41.496430
+f3b931bb-9d8b-4cef-864f-d727ca4db976,user_18,Just browsing offers,Festive_Sale,2025-12-26 23:58:41.495668
+0e2863d5-c3e7-4203-9d85-6416e4a09b9d,user_32,Looking for discounts,Seasonal_Promo,2025-12-27 01:09:41.495687
+cba04f01-9bd1-4048-a7b2-177b9852d5f3,user_571,Requesting personalized recommendations,Product_Recommendation,2025-12-27 01:28:41.496469
+f57b67d7-bfc2-4303-9104-c12a27d40c15,user_618,Exploring premium features,New_User_Welcome,2025-12-27 01:44:41.496532
+ad664406-86ef-4651-8ec1-728743b71e09,user_369,,,2025-12-27 02:05:41.496187
+aaadf594-ec36-431a-b069-e623ed7c9540,user_545,Asking about subscription plans,New_User_Welcome,2025-12-27 02:06:41.496436
+0223013b-cf67-4cbb-a720-51848b20cd00,user_550,Asking about subscription plans,New_User_Welcome,2025-12-27 03:15:41.496443
+4a5bec56-f293-4433-bdf5-1b3107aea66d,user_550,Added item to wishlist,,2025-12-27 03:40:41.496443
+28557661-2e0e-4a3f-9d86-ca04af8f8105,user_571,Returned to app after notification,Reengagement_Push,2025-12-27 03:55:41.496469
+19bb1c18-bf26-4ae6-a284-c8df2aa38de4,user_571,Viewed cart but did not checkout,Abandoned_Cart_Reminder,2025-12-27 04:51:41.496469
+764c3d37-b8c7-49b7-806d-03d1d6a41a05,user_334,,,2025-12-27 05:56:41.496139
+f065063f-072a-4f7e-903d-0bc3471ac5d5,user_169,Exploring premium features,Festive_Sale,2025-12-27 06:28:41.495906
+138263c2-26c1-4a8b-bdf2-7fd98bb25f3e,user_521,Need support with recent purchase,New_User_Welcome,2025-12-27 09:22:41.496405
+98d86f1e-217c-437c-b591-f1c210afdc3e,user_200,Looking for discounts,Festive_Sale,2025-12-27 11:45:41.495957
+510284e1-a552-47a1-9a1d-62e8c4643d9a,user_88,Feedback on recent campaign,Seasonal_Promo,2025-12-27 12:57:41.495776
+fa182619-a9ef-44f2-9402-885c01e87689,user_479,,,2025-12-27 15:39:41.496335
+9d3ef6d9-d2a5-4d79-b683-ada8a7cc9e0b,user_456,Exploring premium features,,2025-12-27 17:13:41.496304
+d03edbb4-fae4-47f1-a562-7fed961b6729,user_456,Added item to wishlist,Wishlist_Nudge,2025-12-27 19:04:41.496304
+2595633f-363f-4b99-ac6e-e89094b672c9,user_456,Searched for similar products,New_User_Welcome,2025-12-27 20:33:41.496304
+bed3e9f1-6677-423f-9283-8954e14754e2,user_456,Clicked on product recommendation,,2025-12-27 21:09:41.496304
+348c5e8c-12cc-419a-b5a7-1119a6252b4a,user_809,Feedback on recent campaign,New_User_Welcome,2025-12-27 21:10:41.496797
+f02c6299-8c7a-4090-90b3-c782689b29a9,user_708,Feedback on recent campaign,Festive_Sale,2025-12-27 23:24:41.496645
+662685b7-a2c7-4bfc-aee5-887ea2c4abac,user_771,Requesting personalized recommendations,Product_Recommendation,2025-12-28 00:50:41.496739
+43252878-cfbf-4a45-bf23-2ddbbe064be7,user_371,Need support with recent purchase,,2025-12-28 04:51:41.496189
+f7619d6e-5bdd-4a8b-9a2b-73ef34f43057,user_612,Looking for discounts,Festive_Sale,2025-12-28 05:50:41.496521
+b4672e6b-2532-4c4f-8697-048f308dd4ff,user_746,Requesting personalized recommendations,Product_Recommendation,2025-12-28 06:08:41.496692
+6a21c565-32bc-4c65-94b9-fd9ea7c0ae43,user_546,Just browsing offers,New_User_Welcome,2025-12-28 06:41:41.496437
+0ba3c5b0-4e17-4555-8c25-a333048af5a3,user_371,Opened promotional email,Festive_Sale,2025-12-28 06:56:41.496189
+2f461aec-a0d8-44a7-8446-925ec06db364,user_355,Feedback on recent campaign,,2025-12-28 07:20:41.496168
+52eb92be-eac1-4212-b541-67d08e60da64,user_659,Interested in new product updates,,2025-12-28 07:28:41.496583
+9b37a6e6-3834-4028-9ceb-5dfdad9b8df1,user_96,Interested in new product updates,Festive_Sale,2025-12-28 07:39:41.495788
+68909d40-e8ed-4882-86fd-968ef80f7f4d,user_371,Returned to app after notification,Reengagement_Push,2025-12-28 07:46:41.496189
+c8b43853-8635-439b-95f5-b7dde3bd6ccc,user_196,Asking about subscription plans,Festive_Sale,2025-12-28 08:01:41.495951
+c9196f9f-d213-430d-9d70-6d1c15730f8a,user_371,Clicked on product recommendation,Product_Recommendation,2025-12-28 08:25:41.496189
+599d5fba-3c35-45e6-9785-4af6581f8d82,user_314,Exploring premium features,Seasonal_Promo,2025-12-28 08:59:41.496113
+741a61a9-4dd5-4445-b2af-55e52fdefb73,user_196,Viewed cart but did not checkout,Abandoned_Cart_Reminder,2025-12-28 09:19:41.495951
+72d0dda7-4918-4ebd-a5b3-a1dfcdf52e8a,user_182,Need support with recent purchase,New_User_Welcome,2025-12-28 09:24:41.495933
+9fd21638-2f12-4344-8b6f-216477ff5bcc,user_395,Asking about subscription plans,Seasonal_Promo,2025-12-28 10:31:41.496222
+86ee9720-1fa1-4927-8a0a-e6d6c1654f3f,user_33,Looking for discounts,New_User_Welcome,2025-12-28 11:36:41.495688
+126044dd-643a-4b8c-a5b2-220d69b4076f,user_336,Just browsing offers,,2025-12-28 11:47:41.496142
+4dcaac03-f2fb-4d00-8788-2169ead9104b,user_349,Feedback on recent campaign,,2025-12-28 12:04:41.496159
+d84daf5c-f028-49c8-9bd3-e62ab330563e,user_574,Just browsing offers,Seasonal_Promo,2025-12-28 12:18:41.496473
+9669d5ba-5d13-42b3-989b-f8d235a8d8f0,user_383,,,2025-12-28 12:23:41.496206
+e8b4451b-d02e-4838-a473-c5d736ede27d,user_887,Asking about subscription plans,Festive_Sale,2025-12-28 12:24:41.496897
+2748acd7-41f6-43c6-b2f8-9b56ee79fc7f,user_625,Feedback on recent campaign,Seasonal_Promo,2025-12-28 13:30:41.496540
+1abaef0f-bfba-47b9-977c-79fe5c9489af,user_887,,,2025-12-28 13:40:41.496897
+e3c06977-2860-448a-b1b4-fc153fb60fb8,user_285,Asking about subscription plans,Seasonal_Promo,2025-12-28 13:59:41.496073
+922b427f-5d92-4433-8b7a-d273990269de,user_383,Browsed category page,Festive_Sale,2025-12-28 14:13:41.496206
+e9bdb2c3-f1a1-4a5f-83eb-24a3645f9495,user_548,,,2025-12-28 15:02:41.496440
+5824ae68-ab7d-4b38-960f-4e05f5ca6f0f,user_887,Opened promotional email,Festive_Sale,2025-12-28 15:15:41.496897
+2110c7e3-57ec-4561-a18a-4c8ec631b317,user_887,Searched for similar products,Seasonal_Promo,2025-12-28 16:03:41.496897
+be4fe503-572a-4ebb-b6ce-a6d520cb7005,user_239,,,2025-12-28 17:24:41.496010
+382043fa-1a2d-41ab-8017-7e67e8f47f19,user_963,Just browsing offers,New_User_Welcome,2025-12-28 19:07:41.497024
+bd66edd8-5c81-4e91-8af7-d70942086412,user_71,Interested in new product updates,Festive_Sale,2025-12-28 20:08:41.495754
+cea4b421-cd81-41f6-a6d3-b84ecded29cb,user_637,Interested in new product updates,Seasonal_Promo,2025-12-28 21:19:41.496556
+b538b6e4-bb41-4094-bc50-35ee6642c817,user_637,Clicked on product recommendation,Product_Recommendation,2025-12-28 21:31:41.496556
+4a6a6337-542d-4aa6-a3d0-fa2a61efd07b,user_637,Added item to wishlist,Wishlist_Nudge,2025-12-28 22:14:41.496556
+c47024f5-f127-4000-b6f9-26892083ab04,user_637,Viewed cart but did not checkout,Abandoned_Cart_Reminder,2025-12-29 00:43:41.496556
+3fc48312-4c73-4091-855f-063745e57c1a,user_428,Need support with recent purchase,New_User_Welcome,2025-12-29 03:30:41.496267
+c9961ae9-6b22-4c4b-821e-4cda050b060a,user_614,Exploring premium features,Festive_Sale,2025-12-29 03:33:41.496524
+6f45b844-112f-4302-a7fe-1dbbf2819914,user_73,,,2025-12-29 03:58:41.495757
+3ab2bb30-b85e-40ad-8c44-073c0e942499,user_813,Asking about subscription plans,Seasonal_Promo,2025-12-29 04:48:41.496802
+d73eca27-afac-40eb-a450-abddd47106f0,user_259,,,2025-12-29 07:02:41.496037
+8f21198e-4283-4e06-90e3-41af7683287c,user_240,Exploring premium features,,2025-12-29 08:21:41.496012
+f09a2c69-ca99-46ea-990f-4e94bcde3b94,user_684,Need support with recent purchase,Festive_Sale,2025-12-29 08:32:41.496614
+58879dba-c2fc-4f3a-82ad-bd067f631b6f,user_768,Interested in new product updates,Seasonal_Promo,2025-12-29 09:29:41.496735
+31d57bdb-5f06-4a5d-a6da-08d568c51d60,user_318,Exploring premium features,New_User_Welcome,2025-12-29 10:08:41.496118
+efe5c81b-ca35-4721-bdb9-d5a8ea0dbeb2,user_713,Asking about subscription plans,Festive_Sale,2025-12-29 12:10:41.496651
+d28f208a-debe-4ed8-9851-65f5ae4bfcc9,user_934,,,2025-12-29 12:53:41.496955
+f0e66cbe-33de-4809-8a58-aec712641e97,user_794,Feedback on recent campaign,Seasonal_Promo,2025-12-29 13:56:41.496778
+afa42484-0cc7-4a15-8588-1bde28dc324d,user_940,Looking for discounts,,2025-12-29 15:32:41.496962
+43a59ce5-6032-4499-b12b-4df6633d7539,user_779,Looking for discounts,Festive_Sale,2025-12-29 15:54:41.496750
+0dffd99c-5a0b-4b0e-a644-37f5b222546a,user_241,Looking for discounts,Festive_Sale,2025-12-29 17:59:41.496013
+8e4817f6-a396-494a-9750-e87bd4352ad3,user_480,Looking for discounts,Seasonal_Promo,2025-12-29 19:18:41.496337
+0e3529b5-f5c6-4b8f-818c-1c783bab9c5c,user_829,Requesting personalized recommendations,,2025-12-29 20:47:41.496822
+c029b7fa-7fa9-4f80-baa2-1cead44da860,user_431,Asking about subscription plans,Festive_Sale,2025-12-29 22:57:41.496271
+f57f3166-e4be-40c3-ae5f-613a9afa5863,user_442,Requesting personalized recommendations,,2025-12-29 23:02:41.496285
+36b60c39-a618-4c95-ad91-a8f9a8a72428,user_204,Asking about subscription plans,New_User_Welcome,2025-12-30 00:42:41.495962
+b5f9ec19-1471-4e97-bee2-3995c7172fb5,user_840,Looking for discounts,Festive_Sale,2025-12-30 01:58:41.496836
+a8e5a468-b0fc-408a-acf2-e44b2b7654e1,user_508,Exploring premium features,New_User_Welcome,2025-12-30 04:55:41.496374
+bf6fa73a-7fda-4308-9b7a-7e342d42374e,user_365,Asking about subscription plans,Festive_Sale,2025-12-30 07:23:41.496181
+74ab912f-2c1d-4d94-bd0f-56096749a7cf,user_828,Just browsing offers,Seasonal_Promo,2025-12-30 07:26:41.496821
+741fd794-e482-43a8-98cf-f4c2caa2d305,user_937,Need support with recent purchase,Festive_Sale,2025-12-30 07:54:41.496958
+6b98e95f-4a42-48a6-b992-9b2d44483640,user_186,Looking for discounts,Festive_Sale,2025-12-30 08:24:41.495938
+a25f7997-ac65-4f05-b430-8caa0f500b6d,user_935,Exploring premium features,New_User_Welcome,2025-12-30 08:43:41.496956
+c7337a3a-9271-4b5a-905e-7654a59db3f1,user_575,Looking for discounts,Seasonal_Promo,2025-12-30 10:47:41.496474
+d8d93a25-d630-4afe-980d-ab663206c66f,user_290,Interested in new product updates,New_User_Welcome,2025-12-30 18:10:41.496080
+6476f6d0-5b0b-4a8b-8eb1-17c267b2f29d,user_674,Feedback on recent campaign,New_User_Welcome,2025-12-30 21:56:41.496601
+2a5b2b3f-e1b4-4ac8-9a57-b47e9af611bd,user_404,Requesting personalized recommendations,,2025-12-30 22:47:41.496234
+126a2b6d-c81e-4b29-84e9-19f417a13484,user_175,Interested in new product updates,Seasonal_Promo,2025-12-31 00:25:41.495924
+5bfb3c3c-7737-4a87-b73b-d85af9f8df36,user_611,,,2025-12-31 02:12:41.496520
+54b742a9-7b55-4497-bdcc-c2a63bbc257e,user_877,Exploring premium features,New_User_Welcome,2025-12-31 02:23:41.496884
+247cc05f-0348-4e2b-8bca-72bc968bc325,user_611,Clicked on product recommendation,Product_Recommendation,2025-12-31 04:47:41.496520
+ccac8ce4-33b8-4f4f-9f5a-45a64e1a7861,user_137,Looking for discounts,New_User_Welcome,2025-12-31 05:17:41.495841
+9762620a-b61e-4bae-842a-2fda69ff306f,user_212,Interested in new product updates,Seasonal_Promo,2025-12-31 06:21:41.495973
+3b18045e-6bf9-4494-86b3-11ecb2d34f8f,user_212,Returned to app after notification,Reengagement_Push,2025-12-31 06:37:41.495973
+fd0bb950-9cfd-4da1-a2ac-2d8fd36d19cc,user_212,Searched for similar products,Festive_Sale,2025-12-31 07:47:41.495973
+4acb3640-4df9-4d5d-bf09-c9cbf3ea2842,user_333,,,2025-12-31 08:04:41.496138
+69ff4e7b-7df4-463e-88ae-30cce7f2d8c2,user_854,,,2025-12-31 11:06:41.496854
+cd0ef912-e723-4a78-8183-eb29e370f15d,user_31,Looking for discounts,Festive_Sale,2025-12-31 13:53:41.495686
+5b396762-f447-45c5-8460-ca2b18e4adcf,user_875,Interested in new product updates,Seasonal_Promo,2025-12-31 14:40:41.496882
+25997deb-d435-4542-9cf6-374343f0bc3f,user_549,Looking for discounts,New_User_Welcome,2025-12-31 15:56:41.496441
+fad2fb6f-69f1-4a5b-b01f-2bd03384e6de,user_671,Requesting personalized recommendations,Product_Recommendation,2025-12-31 16:01:41.496597
+057bc596-9953-4893-8a98-f7bd937b20a4,user_538,Exploring premium features,Seasonal_Promo,2025-12-31 20:35:41.496428
+99fdf885-46a4-47c9-80da-0d79cc6696bc,user_792,Exploring premium features,New_User_Welcome,2025-12-31 21:22:41.496776
+92b1c26b-0163-4101-a8f7-67744e1d667a,user_565,Just browsing offers,Festive_Sale,2025-12-31 21:41:41.496462
+fa39b87e-5cd2-4faf-b643-cc98d9b4ba94,user_586,Interested in new product updates,New_User_Welcome,2025-12-31 22:02:41.496488
+78497c03-4ade-4502-8b50-5f422b50e286,user_892,Looking for discounts,New_User_Welcome,2025-12-31 22:53:41.496903
+73cc9d57-fdc9-4bcf-aadb-ad0d674f3961,user_172,Looking for discounts,New_User_Welcome,2026-01-01 01:56:41.495913
+5dbeebdb-7665-4ac9-a6a6-ca2288f4f2ba,user_339,Exploring premium features,Festive_Sale,2026-01-01 03:00:41.496146
+69f8ce4f-bfda-4c1c-b565-0cc145c07417,user_804,,,2026-01-01 04:52:41.496791
+21b96539-5428-4629-b48c-11fe30380c05,user_295,Looking for discounts,,2026-01-01 06:54:41.496087
+6bf0f7a9-1f02-4e68-bb36-db6ebe106c00,user_871,Asking about subscription plans,Festive_Sale,2026-01-01 14:10:41.496876
+0a83254f-1c83-4f71-9dd2-8785ed9f08d0,user_863,Need support with recent purchase,Seasonal_Promo,2026-01-01 14:24:41.496866
+eaadd4f1-e4dd-41e1-9c0e-22e0775c27a2,user_885,Asking about subscription plans,New_User_Welcome,2026-01-01 15:26:41.496894
+01ed5c29-d711-4bd8-9c78-07ba11712bcb,user_929,Exploring premium features,Festive_Sale,2026-01-01 16:40:41.496948
+41a005e5-f95b-46dd-855a-ff11b4d6281a,user_424,Looking for discounts,Seasonal_Promo,2026-01-01 16:58:41.496261
+f725bf8f-bf9c-46ac-9854-9f2f889343b4,user_687,Looking for discounts,Festive_Sale,2026-01-01 17:02:41.496618
+14c8e0e0-6cc4-41d2-9618-8823d59c68dc,user_217,Exploring premium features,Seasonal_Promo,2026-01-01 17:57:41.495980
+196c311b-2400-4e87-8d6d-5499831639aa,user_312,Feedback on recent campaign,New_User_Welcome,2026-01-01 20:28:41.496110
+5544041d-977e-4bd1-8174-2f19a60409ec,user_256,Need support with recent purchase,New_User_Welcome,2026-01-02 02:13:41.496033
+200ca906-0d87-47d4-8e33-82258d82484f,user_110,Interested in new product updates,Festive_Sale,2026-01-02 04:15:41.495807
+99b01861-738a-46ff-b5ba-64fc39d00320,user_264,Just browsing offers,,2026-01-02 04:44:41.496044
+c52cf8b3-c7ce-4a68-9d6f-18974b347125,user_469,Exploring premium features,Festive_Sale,2026-01-02 05:45:41.496322
+d7a0c85b-f99e-4156-92b6-d35b8e50bb96,user_110,Searched for similar products,Seasonal_Promo,2026-01-02 07:15:41.495807
+7bca72d0-692c-49f0-b67f-97bed2baf662,user_110,Browsed category page,New_User_Welcome,2026-01-02 08:01:41.495807
+4079de37-f233-466f-a3ad-7a3550f01015,user_482,Looking for discounts,Festive_Sale,2026-01-02 09:05:41.496339
+5ef9c7b3-8aab-45bd-8b14-1a9108785c49,user_978,Requesting personalized recommendations,Product_Recommendation,2026-01-02 12:07:41.497049
+14662f5d-18c4-47a3-8236-473c8885291e,user_835,Looking for discounts,New_User_Welcome,2026-01-02 12:47:41.496830
+1cc7e114-bb05-4a77-8324-0eb9b9b92c1f,user_608,Asking about subscription plans,New_User_Welcome,2026-01-02 15:03:41.496516
+8e4e8601-7d7f-4962-96e5-384f33adb863,user_399,Looking for discounts,Festive_Sale,2026-01-02 15:22:41.496227
+862f0f58-5cac-431c-b8a5-516ca2c4f31d,user_731,Just browsing offers,Seasonal_Promo,2026-01-02 15:22:41.496674
+193156d3-172d-4e6a-9b96-6ee65da39e6e,user_957,Exploring premium features,Seasonal_Promo,2026-01-02 16:11:41.497000
+62f371db-ea9b-4f5e-b1e1-779566c80b35,user_120,Requesting personalized recommendations,Product_Recommendation,2026-01-02 16:24:41.495819
+eb520541-c82f-48f5-8995-0268f0cb3347,user_957,Viewed cart but did not checkout,Abandoned_Cart_Reminder,2026-01-02 16:38:41.497000
+aa204d14-3cdf-4fd3-98c5-ba8b052a074d,user_492,Feedback on recent campaign,Seasonal_Promo,2026-01-02 17:06:41.496353
+159063a9-8459-4117-861d-c7970ecdb41c,user_277,Exploring premium features,Festive_Sale,2026-01-02 22:03:41.496062
+9642ab25-616d-45d6-9e52-bc9286414da6,user_568,Feedback on recent campaign,New_User_Welcome,2026-01-02 23:50:41.496466
+eb62b92e-dd70-43d3-a178-519fc0a15130,user_455,Looking for discounts,Seasonal_Promo,2026-01-02 23:55:41.496303
+bb8d222a-35f7-4364-8d59-13777854f201,user_236,Just browsing offers,,2026-01-03 00:51:41.496006
+e21af72f-0176-4336-aea1-fd13333adc0f,user_29,,,2026-01-03 01:02:41.495683
+4998eab2-e7c2-4c9b-af4e-68e486d16825,user_158,Looking for discounts,Seasonal_Promo,2026-01-03 01:16:41.495873
+30ad038e-c473-44bf-9eb4-22a4eb0cf171,user_122,,,2026-01-03 05:11:41.495822
+f354e789-909e-40d3-b33c-c6d036fa28ec,user_30,,,2026-01-03 05:24:41.495684
+14cc81b4-7b2d-4d15-8d43-030f35afb003,user_524,Exploring premium features,,2026-01-03 10:28:41.496409
+c41d77bc-c234-4778-a426-511bd56a5f55,user_524,Opened promotional email,Festive_Sale,2026-01-03 12:47:41.496409
+091e415c-76dd-40f7-b408-a4a92d399771,user_520,Exploring premium features,,2026-01-03 13:03:41.496404
+38565f17-d177-4085-ba5f-e98c61006c6c,user_596,Requesting personalized recommendations,Product_Recommendation,2026-01-03 13:35:41.496501
+25caed30-a7c8-455c-ade6-0793cad99d39,user_116,Asking about subscription plans,New_User_Welcome,2026-01-03 14:28:41.495814
+e1b93f9c-6023-45e2-a4b7-b364b1e25627,user_125,Need support with recent purchase,New_User_Welcome,2026-01-03 16:48:41.495825
+01e1d4e5-6343-436e-9aae-df94f51aa73d,user_636,Looking for discounts,New_User_Welcome,2026-01-03 17:25:41.496554
+e0719317-e59c-4141-81df-0dd33003842a,user_842,Asking about subscription plans,,2026-01-03 18:02:41.496839
+72b0aacc-293a-4e00-be93-ea305c08e563,user_436,Exploring premium features,Festive_Sale,2026-01-03 19:56:41.496277
+474f346c-fbaa-4d6d-8903-6e5156c4c61e,user_815,Asking about subscription plans,Seasonal_Promo,2026-01-03 20:34:41.496805
+6d954e75-9bbd-401b-b6b1-12e8a0709864,user_142,Exploring premium features,New_User_Welcome,2026-01-03 20:50:41.495848
+14c763f2-724d-4c56-9f49-9658bc8cff32,user_693,Need support with recent purchase,,2026-01-03 21:27:41.496625
+a0309151-992d-41ed-a852-191893bfaa90,user_95,Exploring premium features,New_User_Welcome,2026-01-03 23:31:41.495786
+ae706745-3e70-40e4-8b3f-4cd9eb276503,user_878,Feedback on recent campaign,Festive_Sale,2026-01-04 00:33:41.496886
+78d79b1b-189f-4fee-9a12-dad8d0d26a50,user_398,Just browsing offers,New_User_Welcome,2026-01-04 00:47:41.496226
+279dc70b-8dbf-40e9-b1f9-a6ce6f008fc4,user_895,Just browsing offers,New_User_Welcome,2026-01-04 02:22:41.496906
+f1c5648f-700f-4291-98f7-6bd3755fbf65,user_478,Feedback on recent campaign,Festive_Sale,2026-01-04 02:24:41.496334
+9cef7cad-b794-4c06-b9db-675ab690b774,user_409,Feedback on recent campaign,Seasonal_Promo,2026-01-04 02:59:41.496241
+39d841df-050e-4dd2-953a-c02ca4ac0ce3,user_147,Exploring premium features,Seasonal_Promo,2026-01-04 03:16:41.495855
+c07f5e48-0bc4-4f64-98b6-2cf911739e52,user_861,Need support with recent purchase,New_User_Welcome,2026-01-04 03:26:41.496863
+e0afb547-deaf-43ef-902d-a2c1810f3020,user_56,Need support with recent purchase,New_User_Welcome,2026-01-04 03:51:41.495736
+9a3d8286-1fc3-46e6-9ba4-60db3ee5b8ec,user_895,Searched for similar products,New_User_Welcome,2026-01-04 05:27:41.496906
+c544aa6f-76b2-4517-9a92-4f446217ea99,user_895,Added item to wishlist,Wishlist_Nudge,2026-01-04 05:42:41.496906
+87050502-e274-4554-b52d-e62315609540,user_610,Interested in new product updates,,2026-01-04 07:04:41.496519
+69079cd9-d296-4e86-8018-d91d34f93b45,user_752,Requesting personalized recommendations,,2026-01-04 08:06:41.496704
+6e223e70-b312-48d3-ae7c-599e04ab2674,user_921,Need support with recent purchase,New_User_Welcome,2026-01-04 09:02:41.496938
+5dec06dd-965d-4961-9999-d4c10ddcd50b,user_483,Looking for discounts,Festive_Sale,2026-01-04 12:49:41.496341
+906d3995-d0cc-472f-a4c0-640e2b001027,user_955,Requesting personalized recommendations,Product_Recommendation,2026-01-04 15:07:41.496995
+0c13e851-f0f8-4f6f-9974-f228b6d6be69,user_600,,,2026-01-04 15:11:41.496506
+2cb8c293-c660-4dc1-8219-b4a8d99f0cb0,user_955,Browsed category page,Festive_Sale,2026-01-04 15:15:41.496995
+f85fd927-b8d1-4201-8cdd-9da514d5fde1,user_955,Added item to wishlist,Wishlist_Nudge,2026-01-04 15:24:41.496995
+2a1ce15a-babc-4797-9e6e-b478851d0749,user_595,Interested in new product updates,Seasonal_Promo,2026-01-04 16:35:41.496500
+951ad8be-2574-4ee1-8ebe-1bbf2bb765af,user_465,Just browsing offers,Seasonal_Promo,2026-01-04 17:36:41.496317
+34172c04-12a3-47d2-8f87-5ca625fae6ee,user_955,Viewed cart but did not checkout,Abandoned_Cart_Reminder,2026-01-04 17:51:41.496995
+5fd03791-1e04-4c0a-afbe-54afe934c37c,user_997,Exploring premium features,New_User_Welcome,2026-01-04 18:32:41.497074
+cc1652e6-96bb-43c4-9d52-d2503b53b82c,user_22,Feedback on recent campaign,Seasonal_Promo,2026-01-05 01:00:41.495674
+feafe313-4e28-4314-a9bc-5faa75d8cb5e,user_646,Asking about subscription plans,New_User_Welcome,2026-01-05 01:19:41.496567
+4865304a-ff6f-4605-95f0-b5a675ff16fe,user_471,Exploring premium features,New_User_Welcome,2026-01-05 02:22:41.496325
+05951c55-d9a0-47bf-85ee-06aa3f5a8d3c,user_646,Viewed cart but did not checkout,Abandoned_Cart_Reminder,2026-01-05 03:32:41.496567
+0a9c6a78-71bb-480c-8caa-4d58bb6730b5,user_447,Requesting personalized recommendations,Product_Recommendation,2026-01-05 03:38:41.496292
+52717653-87f9-4fa3-8c90-25ac2a8f3acf,user_686,Interested in new product updates,New_User_Welcome,2026-01-05 04:47:41.496616
+7dab1dbd-7732-4c4d-9a83-60d9bf4245fb,user_984,Asking about subscription plans,New_User_Welcome,2026-01-05 06:05:41.497057
+7808dbcb-8353-4a20-95ce-4b42804d5ff1,user_219,Requesting personalized recommendations,Product_Recommendation,2026-01-05 06:52:41.495983
+df25a809-4b1e-476b-9d7f-a4826220ec4b,user_187,Interested in new product updates,New_User_Welcome,2026-01-05 09:11:41.495939
+38ce5ac2-58f9-479c-ae9e-e5184e95538f,user_367,Exploring premium features,,2026-01-05 09:31:41.496184
+c200b902-adbc-416e-bf32-40641cd7d851,user_822,Just browsing offers,Seasonal_Promo,2026-01-05 09:59:41.496814
+273556ec-5044-4f95-b442-e350d993d082,user_542,Asking about subscription plans,Festive_Sale,2026-01-05 10:53:41.496432
+c4ed6192-c97d-4227-ae03-9ee681b3bbc4,user_198,Just browsing offers,,2026-01-05 11:35:41.495954
+09f19429-0998-44c5-8355-579c5b3d8a72,user_504,Looking for discounts,Seasonal_Promo,2026-01-05 13:40:41.496369
+b44c79d4-c9ec-42bd-b2c0-b2b68c8ea25e,user_740,Exploring premium features,Festive_Sale,2026-01-05 14:12:41.496685
+8108e334-f10c-4567-abb9-845a1eb62c6f,user_443,Looking for discounts,New_User_Welcome,2026-01-05 14:44:41.496286
+0838340f-c0ed-481e-8f11-fc5525db0f78,user_443,Opened promotional email,Festive_Sale,2026-01-05 15:12:41.496286
+45fb940f-cab9-4f59-9342-d911b729c51f,user_138,Requesting personalized recommendations,Product_Recommendation,2026-01-05 15:47:41.495842
+d858531d-d162-47c1-a7a8-ce14d07ee8fe,user_443,Opened promotional email,Festive_Sale,2026-01-05 15:56:41.496286
+e81cab91-d5cc-42ad-ba69-5c6f2819424e,user_443,Viewed cart but did not checkout,Abandoned_Cart_Reminder,2026-01-05 16:14:41.496286
+5c1992b7-cd6b-4131-b9e5-f1a575e4b0bf,user_313,Feedback on recent campaign,Festive_Sale,2026-01-05 16:36:41.496111
+890a80dd-0993-41ed-93d8-adc775f44d27,user_443,Browsed category page,New_User_Welcome,2026-01-05 16:38:41.496286
+159c1fe2-28cd-4184-8056-423c58611709,user_966,Just browsing offers,Festive_Sale,2026-01-05 20:07:41.497028
+ba9f2f90-ea1d-483c-a7b5-d0a04e29b10c,user_462,Need support with recent purchase,Festive_Sale,2026-01-05 21:39:41.496313
+2a5d1bd9-b809-46ea-b98a-a98e54a649fa,user_179,Just browsing offers,Seasonal_Promo,2026-01-05 22:16:41.495929
+debd3ee4-6027-488e-8008-1cca34208263,user_179,,,2026-01-05 22:50:41.495929
+fc000c3c-a00a-4312-adb2-a5c5c4df8b53,user_179,Browsed category page,New_User_Welcome,2026-01-05 23:56:41.495929
+eccaee5b-30ec-4603-a46b-9d7f289837bd,user_202,Exploring premium features,Seasonal_Promo,2026-01-06 00:15:41.495960
+05879bcd-c8c6-41d6-ae5a-11da0b997180,user_179,Clicked on product recommendation,Product_Recommendation,2026-01-06 00:46:41.495929
+1200a407-2298-40c0-ad1d-ee6ffd01c953,user_706,Just browsing offers,Festive_Sale,2026-01-06 01:33:41.496643
+29430aec-d0a5-495e-a01b-ca0792696300,user_179,Searched for similar products,New_User_Welcome,2026-01-06 01:50:41.495929
+c75de560-2eaf-40c7-ac1d-6d908e1fc3c9,user_567,Asking about subscription plans,New_User_Welcome,2026-01-06 04:34:41.496464
+afcbf305-5083-4a19-a187-9d61f33485b9,user_117,Interested in new product updates,Festive_Sale,2026-01-06 05:16:41.495815
+2a0ddb38-75f4-4d0b-b497-ea5b8392db92,user_692,Feedback on recent campaign,Festive_Sale,2026-01-06 07:36:41.496624
+f735edf7-9c15-41f6-9f47-c798b98ab144,user_819,Asking about subscription plans,New_User_Welcome,2026-01-06 09:01:41.496810
+fc667509-4032-4c37-a15a-9cb9f9484275,user_653,Looking for discounts,,2026-01-06 11:41:41.496576
+0cb1d596-d6a5-40d7-9a33-5385aa5186c5,user_114,Asking about subscription plans,New_User_Welcome,2026-01-06 12:52:41.495812
+91ed66c3-d898-430a-9412-ba0b2e8dfd39,user_124,Asking about subscription plans,Festive_Sale,2026-01-06 14:05:41.495824
+e000b485-5317-4296-b317-d299afbe0214,user_497,,,2026-01-06 14:08:41.496360
+d69e531d-8da7-4dc7-b7a0-73d0d1f3c972,user_124,Browsed category page,Festive_Sale,2026-01-06 14:21:41.495824
+3d1ed0b7-bc37-47c5-949b-b59a5e2842f0,user_631,Asking about subscription plans,New_User_Welcome,2026-01-06 15:32:41.496549
+75ec8b67-374c-42e0-a8bb-9c9b1e121403,user_525,Just browsing offers,Festive_Sale,2026-01-06 17:34:41.496411
+017c898e-4260-4406-9bee-4863968c6d69,user_867,Need support with recent purchase,Seasonal_Promo,2026-01-06 17:52:41.496871
+2dfca665-fa1a-4bb6-8825-13eb4e49447d,user_827,Interested in new product updates,Seasonal_Promo,2026-01-06 18:21:41.496820
+0baca6f1-7648-48af-8fc7-dda13a540c4d,user_785,Interested in new product updates,New_User_Welcome,2026-01-06 19:51:41.496765
+f034f103-3911-4fd3-924f-ac9cf42960df,user_101,Need support with recent purchase,,2026-01-06 22:04:41.495794
+1ae7b2d0-56f5-4073-9375-43e6358d9584,user_922,Looking for discounts,New_User_Welcome,2026-01-07 01:10:41.496940
+e9ccad48-b18c-49d1-ac19-39528f04ce98,user_39,Exploring premium features,Festive_Sale,2026-01-07 03:40:41.495702
+2453f42d-d812-4d88-b108-4c78148803dc,user_6,Exploring premium features,,2026-01-07 07:40:41.495635
+35dc0fa4-9479-444a-89df-82a4560868d5,user_501,Need support with recent purchase,New_User_Welcome,2026-01-07 14:04:41.496365
+7b3b7f86-8c02-4b7b-b7e6-0fa548752284,user_547,Feedback on recent campaign,New_User_Welcome,2026-01-07 15:02:41.496439
+f308c227-408a-492b-bbbe-9be5e58ee9c8,user_946,,,2026-01-07 15:18:41.496974
+84bf00b2-ca47-4a28-bc36-ba500613a00e,user_821,Feedback on recent campaign,,2026-01-07 19:32:41.496813
+ae2c3d29-577b-4d39-b07a-786d59a6077f,user_975,Asking about subscription plans,Seasonal_Promo,2026-01-07 22:37:41.497045
+34db2cb6-56d2-46c3-985e-2aa21cbe7b20,user_987,Requesting personalized recommendations,,2026-01-08 00:50:41.497061
+114e1707-442d-4be1-8a76-2279d76f397b,user_641,Interested in new product updates,,2026-01-08 02:53:41.496561
+9961e805-3683-4d3b-985c-9fec8c833d29,user_265,Requesting personalized recommendations,Product_Recommendation,2026-01-08 05:19:41.496045
+34f89095-a072-457c-acb4-9ea84cb489e8,user_904,Requesting personalized recommendations,Product_Recommendation,2026-01-08 05:22:41.496918
+3aff0d23-bc81-4f44-828a-5de85e508a89,user_165,Feedback on recent campaign,New_User_Welcome,2026-01-08 06:12:41.495888
+ff210bbf-cf68-41aa-afd6-1ff99d5158e9,user_910,Feedback on recent campaign,New_User_Welcome,2026-01-08 06:59:41.496925
+78d45d8f-70d2-4e22-ad23-66a5f16af07b,user_361,Requesting personalized recommendations,Product_Recommendation,2026-01-08 08:07:41.496176
+6c0f4818-8d07-46f9-9b1f-d9602ce0cac6,user_48,Just browsing offers,,2026-01-08 08:11:41.495725
+b59613b6-2a5d-44b5-bb09-952622002eb8,user_48,Viewed cart but did not checkout,Abandoned_Cart_Reminder,2026-01-08 08:56:41.495725
+882b9313-cbf2-4c46-bcd7-0004db31b829,user_317,Requesting personalized recommendations,Product_Recommendation,2026-01-08 09:35:41.496117
+906537d4-eeb2-4f2d-b360-6a98c905363a,user_291,,,2026-01-08 10:11:41.496082
+e27db985-47e9-476a-8daf-7f4c59416817,user_48,Opened promotional email,Festive_Sale,2026-01-08 10:24:41.495725
+ff13365d-642a-4f07-bfa7-7940acbe1878,user_850,Asking about subscription plans,Seasonal_Promo,2026-01-08 10:59:41.496849
+80ba2b38-eef8-4237-b8ee-074c8d1cdbb0,user_721,Just browsing offers,Festive_Sale,2026-01-08 15:23:41.496661
+fe8fa7fd-09d8-448d-bebc-eaf21685578a,user_459,Feedback on recent campaign,,2026-01-08 19:31:41.496309
+3217072a-5c73-466f-8989-f299ccd558e1,user_882,Exploring premium features,Seasonal_Promo,2026-01-08 20:14:41.496891
+03880f50-a115-496a-b3c0-39b1e7fd339f,user_914,Need support with recent purchase,New_User_Welcome,2026-01-08 21:30:41.496930
+182dc7af-b0fd-421e-97c2-b3f64f5b95e4,user_914,Returned to app after notification,,2026-01-08 22:51:41.496930
+825b468b-66ea-4613-8408-30830f48cdb3,user_473,Looking for discounts,,2026-01-08 23:51:41.496327
+cd7868eb-c277-4c05-a61b-b39367f65598,user_732,Exploring premium features,New_User_Welcome,2026-01-09 02:29:41.496675
+fa762f4a-298a-4976-b77f-7a2fda2ad1e8,user_857,Feedback on recent campaign,Festive_Sale,2026-01-09 02:46:41.496858
+6a0236d1-527f-4783-8494-a46b04b873e6,user_584,Feedback on recent campaign,New_User_Welcome,2026-01-09 06:32:41.496485
+2451755a-ab90-4bff-a847-0b7c8afd7035,user_527,Need support with recent purchase,New_User_Welcome,2026-01-09 07:57:41.496413
+1ab7e9fa-44ea-4e8f-ad83-397ebbd4204c,user_960,Feedback on recent campaign,New_User_Welcome,2026-01-09 09:20:41.497008
+6454747e-150b-49ba-9ba5-2c99bc76a523,user_422,Exploring premium features,Festive_Sale,2026-01-09 11:03:41.496258
+edc1f1f4-a35a-453b-8c0a-4bacfd3ecf10,user_920,Interested in new product updates,Festive_Sale,2026-01-09 11:27:41.496937
+8ecd4cef-9204-4117-a058-d8ecb5a01a4c,user_316,Asking about subscription plans,,2026-01-09 12:49:41.496115
+a7f35fc8-1285-4d29-98a5-29b63b6025f1,user_385,Just browsing offers,Festive_Sale,2026-01-09 13:23:41.496208
+4a27e831-6810-4f65-a8d7-7ade9f6a8f23,user_936,Requesting personalized recommendations,Product_Recommendation,2026-01-09 13:34:41.496957
+6854803d-853c-4d8f-b291-ddc3997dea00,user_800,Looking for discounts,Festive_Sale,2026-01-09 14:13:41.496786
+c56c6fe1-61b8-4748-87e5-9a957b6ddeaa,user_38,Asking about subscription plans,New_User_Welcome,2026-01-09 18:03:41.495700
+aebf09eb-8608-4b30-b6f7-792eda5f4dc0,user_145,Interested in new product updates,New_User_Welcome,2026-01-09 21:10:41.495852
+5de2ed68-56e7-4cd0-82d2-9dbbbbfa8c05,user_688,Exploring premium features,Festive_Sale,2026-01-09 21:17:41.496619
+ac53782d-43bd-4af5-8b47-390dce1e4e2b,user_639,Asking about subscription plans,Seasonal_Promo,2026-01-09 21:31:41.496558
+5867db6c-0d1b-4975-9ae2-446743e81b17,user_216,Need support with recent purchase,Festive_Sale,2026-01-09 22:29:41.495979
+35623d64-61c8-42cf-8ee8-86bd982b89b3,user_429,Asking about subscription plans,Seasonal_Promo,2026-01-09 23:41:41.496268
+43749e5a-f91d-4fbb-9331-884ae8e253cc,user_82,Just browsing offers,Seasonal_Promo,2026-01-10 01:44:41.495769
+abb5a66c-1fa5-409a-ad36-c62b2fa84f9b,user_554,Exploring premium features,,2026-01-10 05:40:41.496448
+7a77450b-6902-4f5a-95c6-357f5d19985f,user_561,Feedback on recent campaign,Festive_Sale,2026-01-10 07:53:41.496457
+0cc7ee80-2940-4e97-8d6b-0c71eef757de,user_92,Interested in new product updates,Seasonal_Promo,2026-01-10 08:08:41.495782
+0df4ab45-c0e4-47c2-b6d1-6788c67d7f05,user_735,Requesting personalized recommendations,Product_Recommendation,2026-01-10 10:01:41.496679
+f2af8497-079a-4f4e-8d55-c50bfe9c4875,user_396,Feedback on recent campaign,,2026-01-10 10:55:41.496223
+700c548b-52b6-47a1-bbd9-b275cb26e874,user_784,,,2026-01-10 11:18:41.496762
+aeb88e99-a380-4590-9e54-75731f015e39,user_784,Searched for similar products,New_User_Welcome,2026-01-10 11:37:41.496762
+73475a46-2ce5-4e83-8a9b-491174a85748,user_416,Exploring premium features,Seasonal_Promo,2026-01-10 12:06:41.496250
+f43e9766-11f6-47f9-ba7a-5b94675ee033,user_784,Browsed category page,Seasonal_Promo,2026-01-10 14:32:41.496762
+718d9099-2ab5-40ec-8346-ee068c75a6da,user_784,,,2026-01-10 15:08:41.496762
+3b0cdb07-dd70-4703-9636-664f7c8f5066,user_704,Need support with recent purchase,,2026-01-10 17:05:41.496640
+40b690cc-d219-4dfe-ab2c-f31bbfbaf4d7,user_115,Need support with recent purchase,Seasonal_Promo,2026-01-10 17:32:41.495813
+a2f6c844-9407-480f-a506-8548377fc9aa,user_535,Interested in new product updates,New_User_Welcome,2026-01-10 18:59:41.496424
+bb900f8a-3753-44b0-97ec-38156fcabe48,user_838,Need support with recent purchase,New_User_Welcome,2026-01-10 20:36:41.496834
+0d60a917-d4f1-4653-a87f-c93504153b80,user_851,Just browsing offers,Festive_Sale,2026-01-10 21:26:41.496850
+491173a5-1a1c-43b1-991a-ec74ab673869,user_851,,,2026-01-10 23:05:41.496850
+c988edd5-4fd3-4ed6-bf22-d0a600e40b86,user_109,,,2026-01-10 23:06:41.495805
+4a238d5b-2008-4ae4-8cd5-d0fa3d65503d,user_851,Browsed category page,New_User_Welcome,2026-01-10 23:27:41.496850
+4f88cc6e-41b4-43e9-a446-b9a1a9b867a6,user_851,,,2026-01-10 23:33:41.496850
+1d252dc1-ec58-48ef-91db-47ef42ef506b,user_851,Added item to wishlist,Wishlist_Nudge,2026-01-10 23:52:41.496850
+59cd1ba5-cf93-4978-8e39-8922a47214fe,user_755,Need support with recent purchase,Seasonal_Promo,2026-01-11 00:32:41.496716
+eff9018c-3957-4e42-9ce9-dd8c0712100a,user_20,Requesting personalized recommendations,Product_Recommendation,2026-01-11 00:57:41.495671
+f1377af3-2348-4336-8de6-7f01f4a3ecb3,user_270,Interested in new product updates,New_User_Welcome,2026-01-11 02:54:41.496052
+6f92ba0f-1d8f-404f-9708-0d01660fe34c,user_668,Looking for discounts,Seasonal_Promo,2026-01-11 04:14:41.496594
+9653ca26-fffb-46ff-9a8c-3bb2fbd4340f,user_81,,,2026-01-11 05:33:41.495767
+21176053-fdf9-4cc2-bf73-17f68be981fa,user_91,Need support with recent purchase,Seasonal_Promo,2026-01-11 08:42:41.495781
+ea78bef4-74d6-4793-8870-754e5fbf673d,user_449,Interested in new product updates,,2026-01-11 09:04:41.496295
+bc0ffe15-080d-4741-abd5-a2aa2625b503,user_245,Interested in new product updates,Festive_Sale,2026-01-11 10:27:41.496018
+7a10033f-7c00-40a1-8cd2-453d560feebe,user_992,Requesting personalized recommendations,Product_Recommendation,2026-01-11 10:59:41.497067
+bcda5b5b-7534-40fb-9f87-ee75d802edae,user_805,Need support with recent purchase,Festive_Sale,2026-01-11 19:47:41.496792
+d63848fc-b46b-48b2-9700-cc187e44dc7b,user_368,,,2026-01-11 19:52:41.496185
+3b77b312-7ac2-493b-929e-52d883f04654,user_533,Requesting personalized recommendations,Product_Recommendation,2026-01-11 21:28:41.496422
+c7f06dcb-0d47-44ad-9a7e-bb271213a66e,user_451,,,2026-01-11 21:45:41.496298
+73281e8c-ccae-4e57-b65c-5d7255884765,user_368,Viewed cart but did not checkout,Abandoned_Cart_Reminder,2026-01-11 21:50:41.496185
+0ff593ac-69ae-4eff-8549-a8987c2c124c,user_368,Returned to app after notification,,2026-01-11 22:53:41.496185
+7f4aa6bd-1d9b-470e-ba2a-9d5036ad02c2,user_368,Searched for similar products,Festive_Sale,2026-01-11 23:40:41.496185
+f6386309-bf62-4ed3-baf9-06447311abc3,user_243,Just browsing offers,Seasonal_Promo,2026-01-11 23:48:41.496016
+19ae1780-e299-4b2f-97d5-4d3729d21dfc,user_311,Feedback on recent campaign,Festive_Sale,2026-01-12 01:06:41.496109
+68c20bdf-e070-4643-9eff-6f6b08596bdd,user_516,Interested in new product updates,New_User_Welcome,2026-01-12 03:35:41.496392
+8de0054a-8ffe-4a73-b102-184666100031,user_952,Asking about subscription plans,,2026-01-12 03:45:41.496988
