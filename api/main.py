@@ -33,7 +33,7 @@ bq_client = bigquery.Client(project=BQ_PROJECT)
 
 # ---------------- App ----------------
 app = FastAPI(
-    title="OWOW Recommendation & Analytics API",
+    title="AI-driven marketing personlization Recommendation & Analytics API",
     version="1.0.0"
 )
 
