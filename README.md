@@ -11,7 +11,7 @@ This repo contains code for the take-home assignment for the role of GCP data en
 │  ├── pipeline/&ensp;&ensp;# ETL / orchestration scripts              
 │  ├── api/&ensp;&ensp;&ensp;# FastAPI app   
 │  ├── utils/                  
-│  ├── data/  
+│  ├── data/  # contains the milvus lite db and sample file used in pipeline
 │  ├── secrets/&ensp;&ensp;&ensp;# store your SA key json for GCP project  
 │  ├── docker-compose.yml&ensp;&ensp;&ensp; Docker compose file             
 │  ├── README.md   
