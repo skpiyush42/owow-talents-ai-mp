@@ -1,0 +1,11 @@
+etcd:
+  endpoints:
+    - etcd:2379
+minio:
+  enabled: false
+storage:
+  type: local
+  local:
+    rootPath: /var/lib/milvus/data
+log:
+  level: info
