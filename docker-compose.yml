@@ -1,5 +1,3 @@
-version: "3.9"
-
 services:
   # ---------------------------------------------------
   # MongoDB
@@ -57,7 +55,7 @@ services:
     ports:
       - "8000:8000"
     depends_on:
-      etl-app:
+      pipeline:
         condition: service_completed_successfully
     environment:
       # Neo4j
@@ -75,6 +73,7 @@ services:
 
       GOOGLE_APPLICATION_CREDENTIALS: /secrets/sa-key.json
     volumes:
+      - ./api:/api
       - milvus_data:/data
       - ./secrets/sa-key.json:/secrets/sa-key.json:ro
     restart: unless-stopped
