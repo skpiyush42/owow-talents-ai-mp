@@ -1,0 +1,162 @@
+apiVersion: serving.knative.dev/v1
+kind: Service
+metadata:
+  name: owow-talents-ai-mp
+  annotations:
+    run.googleapis.com/launch-stage: ALPHA
+    run.googleapis.com/scalingMode: automatic
+    run.googleapis.com/maxScale: '1'
+  labels:
+    managed-by: runcompose
+spec:
+  template:
+    metadata:
+      annotations:
+        run.googleapis.com/startup-cpu-boost: 'true'
+        run.googleapis.com/execution-environment: 'gen2'
+        # run.googleapis.com/cpu-throttling: 'false'
+        run.googleapis.com/container-dependencies: '{"milvus-standalone":["milvus-minio","milvus-etcd"],"owow-talents-ai-mp":["milvus-standalone","mongodb"]}'
+      labels:
+        managed-by: runcompose
+    spec:
+      containers:
+      - name: owow-talents-ai-mp
+        image: us-central1-docker.pkg.dev/dataservices-dev-stage/cloud-run-source-deploy/owow-talents-ai-mp_app@sha256:481ee06b0d8a92725d989bb5a9124f005b08f90feaf1c8726670974b036d5ea8
+        env:
+        - name: MILVUS_HOST
+          value: "milvus"
+        - name: MILVUS_PORT
+          value: "19530"
+        - name: MONGODB_URI
+          value: "mongodb://mongodb:27017"
+        resources:
+          limits:
+            cpu: 1000m
+            memory: 1Gi
+      - name: milvus-etcd
+        image: quay.io/coreos/etcd:v3.5.5
+        env:
+        - name: ETCD_AUTO_COMPACTION_MODE
+          value: "revision"
+        - name: ETCD_AUTO_COMPACTION_RETENTION
+          value: "1000"
+        - name: ETCD_QUOTA_BACKEND_BYTES
+          value: "4294967296"
+        - name: ETCD_SNAPSHOT_COUNT
+          value: "50000"
+        startupProbe:
+          timeoutSeconds: 240
+          periodSeconds: 240
+          failureThreshold: 1
+          tcpSocket:
+            port: 2379
+        args:
+        - "etcd"
+        - "--advertise-client-urls=http://etcd:2379"
+        - "--listen-client-urls=http://0.0.0.0:2379"
+        resources:
+          limits:
+            cpu: 1000m
+            memory: 1Gi
+        volumeMounts:
+        - name: etcd_data
+          mountPath: /etcd
+      - name: milvus-standalone
+        image: milvusdb/milvus:v2.4.0
+        env:
+        - name: ETCD_ENDPOINTS
+          value: "etcd:2379"
+        - name: MINIO_ADDRESS
+          value: "minio:9000"
+        startupProbe:
+          timeoutSeconds: 240
+          periodSeconds: 240
+          failureThreshold: 1
+          tcpSocket:
+            port: 19530
+        args:
+        - "milvus"
+        - "run"
+        - "standalone"
+        resources:
+          limits:
+            cpu: 1000m
+            memory: 1Gi
+        volumeMounts:
+        - name: milvus_data
+          mountPath: /var/lib/milvus
+      - name: milvus-minio
+        image: minio/minio:RELEASE.2023-12-20T01-00-02Z
+        env:
+        - name: MINIO_ACCESS_KEY
+          value: "minioadmin"
+        - name: MINIO_SECRET_KEY
+          value: "minioadmin"
+        ports:
+        - containerPort: 9000
+          name: http1
+        startupProbe:
+          timeoutSeconds: 240
+          periodSeconds: 240
+          failureThreshold: 1
+          tcpSocket:
+            port: 9000
+        args:
+        - "minio"
+        - "server"
+        - "/minio_data"
+        - "--console-address"
+        - ":9001"
+        resources:
+          limits:
+            cpu: 1000m
+            memory: 1Gi
+        volumeMounts:
+        - name: minio_data
+          mountPath: /minio_data
+      - name: mongodb
+        image: mongo:7.0
+        env:
+        startupProbe:
+          timeoutSeconds: 240
+          periodSeconds: 240
+          failureThreshold: 1
+          tcpSocket:
+            port: 27017
+        resources:
+          limits:
+            cpu: 1000m
+            memory: 1Gi
+        volumeMounts:
+        - name: mongo_data
+          mountPath: /data/db
+      volumes:
+      # for prototype, just use memory volumes
+      - name: etcd_data
+        csi:
+          driver: gcsfuse.run.googleapis.com
+          readOnly: false
+          volumeAttributes:
+            bucketName: 246708815850-owow-talents-ai-mp-us-central1-compose
+            mountOptions: 'only-dir=etcd_data'
+      - name: milvus_data
+        csi:
+          driver: gcsfuse.run.googleapis.com
+          readOnly: false
+          volumeAttributes:
+            bucketName: 246708815850-owow-talents-ai-mp-us-central1-compose
+            mountOptions: 'only-dir=milvus_data'
+      - name: minio_data
+        csi:
+          driver: gcsfuse.run.googleapis.com
+          readOnly: false
+          volumeAttributes:
+            bucketName: 246708815850-owow-talents-ai-mp-us-central1-compose
+            mountOptions: 'only-dir=minio_data'
+      - name: mongo_data
+        csi:
+          driver: gcsfuse.run.googleapis.com
+          readOnly: false
+          volumeAttributes:
+            bucketName: 246708815850-owow-talents-ai-mp-us-central1-compose
+            mountOptions: 'only-dir=mongo_data'
